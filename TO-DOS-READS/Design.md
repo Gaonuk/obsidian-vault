@@ -1,0 +1,13 @@
+- [Lots of fonts](https://type.lol/)
+- [Helsinki Design System](https://hds.hel.fi/)
+- [Wavy line design tutorial](https://twitter.com/jamesm/status/1665675048559185924)
+- [Headless UI](https://headlessui.com/)
+- [Framer Motion](https://github.com/framer/motion)
+- [ShadcnUI library](https://ui.shadcn.com/)
+- [learn framer](https://t.co/AvWaiqP14d)
+- [UI Skeleton Gallery](https://twitter.com/d__raptis/status/1670688173717094400?s=20)
+- [Building interactive SVG animations](https://twitter.com/nandafyi/status/1671169505316446212?s=20)
+- [Design inspiration](https://t.co/n46NPgkrlT)
+- [5/9 Personal Design System](https://t.co/BScQbrJC0T)
+- [DesignSystem resources](https://t.co/Y8FBYZ9K4U)
+- 

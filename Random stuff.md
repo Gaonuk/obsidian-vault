@@ -1,0 +1,5 @@
+- [Meme about people complaining of overpopulation](https://twitter.com/dystopiabreaker/status/1512254874385215489?s=20)
+- [10 inspirational movies about Math, Humanity and Life](https://twitter.com/taoofmastery/status/1545740346067283969)
+- [Books and games recommendations by a16z crypto](https://a16zcrypto.com/posts/article/some-books-were-reading-and-games-were-playing-this-winter/)
+- 
+- 

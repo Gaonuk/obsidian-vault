@@ -1,0 +1,181 @@
+{
+  "main": {
+    "id": "bf3a665daf4fa7c2",
+    "type": "split",
+    "children": [
+      {
+        "id": "d457ab5fd554b47f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6fd1d5ccbfdcb8a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TO-DOS-READS/Software, Engineering and Programming.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e32f59f9b7727e00",
+    "type": "split",
+    "children": [
+      {
+        "id": "b705dd6c08cc5645",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "748b9aa3157f1f57",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "21d5a1ab3cac200f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "24acb2498186fc33",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bbb11a77ab650ef4",
+    "type": "split",
+    "children": [
+      {
+        "id": "2768e0dfb354d4c2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b561216ec9640969",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "TO-DOS-READS/Software, Engineering and Programming.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ff3225b64b4fecf0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "TO-DOS-READS/Software, Engineering and Programming.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bdd6c99715776be5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3577948c0e65bc50",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "TO-DOS-READS/Software, Engineering and Programming.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "6fd1d5ccbfdcb8a7",
+  "lastOpenFiles": [
+    "Auditing/Horsefacts Interview.md",
+    "TO-DOS-READS/Software, Engineering and Programming.md",
+    "TO-DOS-READS/Cloud & Systems.md",
+    "TO-DOS-READS/Design.md",
+    "TO-DOS-READS/Auditoooor.md",
+    "TO-DOS-READS/DeFi.md",
+    "TO-DOS-READS/Zero Knowledge.md",
+    "TO-DOS-READS/Science & Technology.md",
+    "TO-DOS-READS/Web3.md",
+    "Bookmarks/DeFi.md",
+    "TO-DOS-READS/EVM.md",
+    "TO-DOS-READS/General Knowledge.md",
+    "Bookmarks/Misc.md",
+    "TO-DOS-READS/Rust.md",
+    "TO-DOS-READS/Entrepreneurship & Startups.md",
+    "Supreme TODO.md",
+    "Random stuff.md",
+    "().md",
+    "TO-DOS-READS",
+    "Reu Wallstate.md",
+    "Boat names.md",
+    "Entrepreneurship in Web3/Entrepreneurship 101.md",
+    "Solidity Patterns & Architectures.md",
+    "Bookmarks/Solana.md",
+    "Bookmarks",
+    "Untitled.canvas",
+    "2023-06-08.md",
+    "Auditing",
+    "Entrepreneurship in Web3"
+  ]
+}

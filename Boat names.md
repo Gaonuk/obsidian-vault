@@ -1,0 +1,20 @@
+- Roger's Dream
+- Roger's Revenge
+- Sunny Seas
+- Hiryu no Hokori
+- Mizuchi no Kiba
+- Kurohoshi Maru
+- Amaterasu
+- Yamato
+- Horizon's Edge
+- Eternal Voyager
+- Roger's Sorrow
+- Vinlander
+- Nimbus
+- Windrider
+- Sora
+- Seigi
+- Umi no Kaze
+- Aldnoah Zero
+- Oceanus
+- Aegir

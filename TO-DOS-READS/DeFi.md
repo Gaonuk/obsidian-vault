@@ -1,0 +1,104 @@
+--------
+
+#### Building
+- [ ] Build something from [Optimism's Collective Ideas](https://github.com/ethereum-optimism/ecosystem-contributions/issues/73)
+- [ ] [Alchemy Tutorials](https://docs.alchemy.com/docs/tutorials-overview)
+- [ ] [Speedrun Ethereum](https://speedrunethereum.com/)
+- [ ] Build a CryptoZombies alternative with Foundry and modern solidity practices
+- [ ] [Learn Blockchains by Building One](https://t.co/6GmkSMUOyE)
+- [ ] [Build Uni V2](https://t.co/sLw3HATS5n)
+- [ ] [Building smol evm](https://t.co/G5Fdb4hrUQ)
+- [ ] [Angle Explains: Playing with Yul (Assembly)](https://t.co/R4S56bSfct)
+- [ ] [Foundry Gas Diff Reporter](https://t.co/3RyAsTfRhA)
+- [ ] [Hosting an Ethereum CTF Challenge, The Easy Way](https://t.co/ROsktm11UD)
+- [ ] [The Easy Way To Quit (Concrete) Testing](https://t.co/nbzcQzFEZZ)
+- [ ] [Searching On MEV-Share](https://t.co/t32QmDt6ws)
+- [ ] [EVM Storage Layout](https://twitter.com/0x_r4bbit/status/1651559768912429056)
+- [ ] [A Next.js + Ethereum starter kit to quickly ship Web3 Apps ⚡](https://t.co/094bI0kddi)
+- [ ] [Run Anvil in Docker hosted in Runway](https://twitter.com/high_byte/status/1658244886863179783?s=20)
+- [ ] [Building a Discord Notification Bot with Alchemy's Notifications Webhook](https://docs.alchemy.com/docs/building-a-discord-notification-bot-with-alchemy-notifications-webhook)
+- [ ] [cool stuff eigenlayer foundry](https://twitter.com/Sabnock66/status/1660707839810084866?s=20)
+- [ ] [The Auditor Book](https://t.co/ZWNeLvQUqU)
+- [ ] [LootSurvivor](https://loot-survivor.vercel.app/)
+- [ ] [A Next.js template with everthing your web3 app needs](https://github.com/m1guelpf/armchair)
+- [ ] [Market Making with 80 lines of python using Architect.xyz](https://twitter.com/BrettHarrison88/status/1667232002515279878?s=20)
+- [ ] [Foundry FFI cheatcode tips](https://twitter.com/0xValerius_/status/1668744149892210690?s=20)
+- [ ] [Programming UniV2](https://t.co/jNfsaoFFWP)
+- [ ] [Ponder: The Blockchain Backend Framework](https://t.co/lEyFrOcm6M)
+- [ ] 
+
+----
+
+#### Readings
+- [ ] [Ramblings on AMMs and Orderbooks](https://mirror.xyz/0x0C23E0dE114d28112f52203cb9583B9826b05dDe/TLXq6hCSsgVmxIWxPRihWEQBoPr9Pf2-MYKATDctNp4) 
+- [ ] [Practical Cryptography and Distributed Ledgers](https://github.com/unbalancedparentheses/practical_cryptography_and_distributed_ledgers)
+- [ ] [VISA Exploring new avenues of blockchain innovation](https://usa.visa.com/visa-everywhere/blog/bdp/2022/12/16/exploring-new-avenues-1671230603572.html)
+- [ ] [Deep Dive Solana PoS](https://shockblogs.hashnode.dev/solanas-consensus-mechanism-a-dive-into-the-solana-proof-of-stake-algorithm)
+- [ ] [Paradigm's Writing](https://www.paradigm.xyz/writing)
+- [ ] [The Crypto Banking System](https://cryptobanking.network/the-crypto-banking-system/)
+- [ ] [Treasury Management in DeFi: Magic of Fixed Income](https://medium.com/element-finance/treasury-management-in-defi-magic-of-fixed-income-85c5d2188953)
+- [ ] [Ramblings on DeFi Derivatives](https://t.co/khwNNsCRDi)
+- [ ] [Celestia 101](https://t.co/mCaO344a4v)
+- [ ] [Dan Romero Crypto Reading List](https://t.co/1akrjb6L1k)
+- [ ] [Uniswap & Sushiswap Market Inefficiencies](https://t.co/vNtIQgIAII)
+- [ ] [Design a constant volatility AMM](https://t.co/Wn5KjlthM4)
+- [ ] [Ether's Phoenix](https://medium.com/ethereum-optimism/ethers-phoenix-18fb7d7304bb)
+- [ ] [Economy of rollup fees](https://t.co/ezrNdFvQvZ)
+- [ ] [Yearn V3](https://t.co/C8TmPxXRez)
+- [ ] [Rollups as Sovereign Chains](https://t.co/yHQUGL4xsT)
+- [ ] [DeFi Primitives Are Best As Free Public Infrastructure](https://t.co/b5Dmlywjxf)
+- [ ] [Cash Flow protocols: Deep down the hard money rabbit hole](https://t.co/QjPlUNlUJX)
+- [ ] [Angle Explains: _Automated_ Market Makers](https://t.co/fvqo84sLsi)
+- [ ] [An introduction to Replicating Market Makers](https://t.co/bgnm5FTDpb)
+- [ ] [How to get better at Solidity](https://t.co/lJ5TvJ7bvO)
+- [ ] [Decentralised Finance and Automated Market Making: Execution and Speculation](https://t.co/6GDR8zTQ3C)
+- [ ] [Awesome Account Abstraction](https://t.co/VG0Dy0iEAP)
+- [ ] [The Uniswap Standard, From Zero To Mastery](https://t.co/owLjQQFUgK)
+- [ ] [A Primer on Uniswap v3 Math: As Easy As 1, 2, v3](https://t.co/iCRzgyR6Ap)
+- [ ] [Formal Specification of Constant Product MM Model](https://t.co/tGXDzLvDxe)
+- [ ] [**_SUAVE: Entering the New MEV Decade_**](https://medium.com/iosg-ventures/suave-entering-the-new-mev-decade-dc95ee91a603)
+- [ ] [MEV-Boost Dashboard](https://mevboost.pics/)
+- [ ] [Writings at Flashbots (On MEV)](https://writings.flashbots.net/)
+- [ ] [Writings on Modularity and Rollups](https://www.alexbeckett.xyz/)
+- [ ] [OasisSwap. Piece 1.](https://t.co/7yUkbUgomN)
+- [ ] [2023 Reflections on Ethereum](https://t.co/bMXqpw7Xwi)
+- [ ] [Introducing Proof of Innocence built on Tornado Cash](https://t.co/wxzm96bXgd)
+- [ ] [On Staking Pools and Staking Derivatives](https://t.co/ZUyrlsOgLK)
+- [ ] [The rise of on-chain orderbook exchanges](https://medium.com/@Xulian0x/the-rise-of-on-chain-orderbook-exchanges-2b2c78a83acf)
+- [ ] [Lending/Borrowing DeFi Attacks](https://t.co/WldfjXCb2B)
+- [ ] [GraphQL for web3](https://t.co/DysDt782uM)
+- [ ] [The Promise and the Peril of Metamorphic Contracts](https://t.co/JH1vEj0ob6)
+- [ ] [Beginner's Guide to Yul](https://t.co/3tVUIoDCdL)
+- [ ] [The math behind Defi is not as hard as you think](https://t.co/0B4LrVg8VT)
+- [ ] [10 protocols from which you can gain a wealth of knowledge](https://t.co/cggcUR6l3w)
+- [ ] [Awesome CryptoEconomics](https://github.com/jpantunes/awesome-cryptoeconomics)
+- [ ] [Bridges resources](https://twitter.com/deliriusz_eth/status/1668975465145544706?s=20)
+- [ ] [Ethereum smart contracts security recommendations and best practices](https://t.co/0EL9o8LZTx)
+- [ ] [Building token-powered consumer products](https://t.co/AKIiZAQCv3)
+- [ ] [All about solidity](https://t.co/2aC4UVjImq)
+- [ ] [Sudo sunday with sudo v2 bonding curves](https://twitter.com/0xmons/status/1670723757118480386?s=20)
+- [ ] [A Tale of Two Arbitrages](https://t.co/fGx0lngVqJ)
+- [ ] [When does the tail wag the dog? Curvature and market making](https://t.co/KKJmJDiHuZ)
+- [ ] [DEX with AMM protocols](https://arxiv.org/abs/2103.12732)
+- [ ] [Introducing Alloy: Fast, battle-tested and well-documented building blocks for Ethereum, in Rust](https://www.paradigm.xyz/2023/06/alloy)
+- [ ] [A Primer on Uniswap v3 Math Part 2](https://t.co/VY1rwk78Nz)
+- [ ] [What happens when you send 1 DAI](https://t.co/jo2xwdRwFG)
+
+----
+
+#### Books
+- [ ] How to DeFi (Advanced) by Coingecko
+- [ ] Books of Andreas Antonopolous
+- [ ] [Re-Architecting Trust](https://www.amazon.com/Re-Architecting-Trust-History-Markets-Platforms/dp/1732027331?crid=JU65X57KMY58&keywords=re+trust&qid=1686257468&s=books&sprefix=re+trus,stripbooks-intl-ship,293&sr=1-1)
+- [ ] The Infinite Machine by Cami Russo
+- [ ] Proof of Stake by Vitalik Buterin
+
+### Videos
+---
+- [ ] [Cryptocurrency Class 2022 by Consensys](https://cryptocurrencyclass.github.io/)
+- [ ] [How to Foundry 2.0: Brock Elmore](https://www.youtube.com/@Spearbit)
+- [ ] [Are Intents, SUAVE, Account Abstraction, & Cross-Chain Bridging all the same thing?](https://t.co/1ggxi9KHIx)
+- [ ] [How I Learned to Stop Worrying & Love Execution Sharding](https://www.youtube.com/watch?v=A0OXif6r-Qk)
+- [ ] [What Can Privacy Do for Mechanism Design?](https://www.youtube.com/watch?v=Rw0tv-43JAU)
+- [ ] [Ethereum Explained: Research, Spec, Clients, & Nodes](https://t.co/W7xujkArxX)
+- [ ] [Collection of youtube channels about solitidy](https://twitter.com/apoorvlathey/status/1672759800323780609)

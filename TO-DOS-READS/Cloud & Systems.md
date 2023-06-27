@@ -1,0 +1,54 @@
+--------
+
+#### Readings
+- [ ] [Distributed Systems 3rd Edition](https://www.distributed-systems.net/index.php/books/ds3/)
+- [ ] [2023 State of Databases for Serverless & Edge](https://leerob.io/blog/backend)
+- [ ] [Lessons on BFT](https://twitter.com/class_lambda/status/1648773194872963073)
+- [ ] [Pains of database architecture](https://www.figma.com/blog/how-figma-scaled-to-multiple-databases/)
+- [ ] [Building a startup from scratch](https://egor-romanov.medium.com/building-a-startup-from-scratch-my-mistakes-as-cto-b20b463e0058)
+- [ ] [Deploy complex production level, three tier architecture](https://t.co/vnEimh82DG)
+- [ ] [A simple AWS Trading System Architecture design](https://t.co/VD7NMecaiq)
+- [ ] [Unleashing the power of AWS Cloudwatch with Custom Dashboard](https://t.co/GTVe6pBcDQ)
+- [ ] [Awesome Software Architecture](https://awesome-architecture.com/)
+- [ ] [Database sharding](https://t.co/niPFLEo9Ee)
+- [ ] [Postgres -> DynamoDB](https://t.co/lMFLkPPOwL)
+- [ ] [AWS Fundamentals](https://t.co/ijK37o2CEd)
+- [ ] [Scalability for serverless apps](https://t.co/s9ANNf3Uw2)
+- [ ] [Architects journal](https://t.co/LmNcT3Tvw8)
+- [ ] [DevSecOps with AWS](https://t.co/k785frhg8R)
+- [ ] [Software architecture paradigms](https://t.co/zDVyn28SmK)
+- [ ] [Securing lambda](https://t.co/zUEomI54Go)
+- [ ] [Serverless Terminal](https://t.co/RInlOFTDeh)
+- [ ] [Parquet architecture](https://twitter.com/notnotstorm/status/1669423847781830656?s=20)
+- [ ] [Migrating Netflix to GraphQL Safely](https://t.co/g1rTSN5iOh)
+- [ ] [Design multi-tenant architectures](https://t.co/hiOcJnWq24)
+- [ ] [Sensible data protection on AWS](https://t.co/RZ2hZxp72G)
+- [ ] [Streaming DynamoDB data into a data lake](https://t.co/q53TQPmvxy)
+- [ ] [Data streaming on AWS](https://t.co/Z4PhI9EqDc)
+- [ ] [A guide for choosing the best API Gateway](https://t.co/jErDojgyJx)
+- [ ] [The future of logs/data observability in apps](https://t.co/D98Dcbgpyb)
+- [ ] [Design systems resources](https://t.co/Y8FBYZ9K4U)
+- [ ] [FIGMA-OS: TURING-COMPLETE COMPUTER IN FIGMA](https://t.co/LfIgUJVG3z)
+- [ ] [Building a serverless app with NestJS and Serverless Framework](https://t.co/ZtcWizNZW3)
+---
+#### Resources
+- [ ] [Systems design primer](https://github.com/donnemartin/system-design-primer#real-world-architectures)
+- [ ] [Miniature Redis in Python](https://charlesleifer.com/blog/building-a-simple-redis-server-with-python/)
+- [ ] [Awesome Scalability](https://github.com/binhnguyennus/awesome-scalability#talk)
+- [ ] [Systems Performance Books](https://twitter.com/gakonst/status/1670481033056354305)
+- [ ] [Books about big and performant distributed systems](https://twitter.com/fede_intern/status/1672672038123720708)
+---
+### Videos
+- [ ] [Making Software 'Correct by Construction'](https://www.youtube.com/watch?v=03mUs5NlT6)
+- [ ] [AWS re:Invent 2014](https://t.co/gtU54VjuMM)
+- [ ] 
+---
+### Tutorials
+- [ ] [Provision AWS with Terraform and Jenkins](https://t.co/TXd5ZLgMv0)
+- [ ] [Dynamic apps with AWS Lambda and GraphQl](https://t.co/Z3fTOJvI1t)
+- [ ] [terraform zero to hero](https://t.co/K30sHEl9Sz)
+- [ ] [unlocking the power of terratest](https://t.co/1BguTNSvGx)
+- [ ] [simple aws app with custom domain using app runner](https://t.co/kWzoqj0CG9)
+- [ ] [E2E monitoring with Grafana stack](https://t.co/Rnmk5gm1F3)
+- [ ] [IaC Tests in CI/CD with Actions and Terratest](https://t.co/IDl6hZDhux)
+- [ ] [A GO project with AWS](https://t.co/5IUgo4LlsP)
