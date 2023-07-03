@@ -7,4 +7,3 @@
 ---
 - [ ] [The Lessons of history](https://www.amazon.com/Lessons-History-Will-Durant/dp/143914995X)
 - [ ] [Democracy is the solution to vetocracy](https://www.sambowman.co/p/democracy-is-the-solution-to-vetocracy)
-- [ ] 

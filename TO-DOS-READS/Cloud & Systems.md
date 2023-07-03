@@ -27,7 +27,6 @@
 - [ ] [Data streaming on AWS](https://t.co/Z4PhI9EqDc)
 - [ ] [A guide for choosing the best API Gateway](https://t.co/jErDojgyJx)
 - [ ] [The future of logs/data observability in apps](https://t.co/D98Dcbgpyb)
-- [ ] [Design systems resources](https://t.co/Y8FBYZ9K4U)
 - [ ] [FIGMA-OS: TURING-COMPLETE COMPUTER IN FIGMA](https://t.co/LfIgUJVG3z)
 - [ ] [Building a serverless app with NestJS and Serverless Framework](https://t.co/ZtcWizNZW3)
 ---
@@ -37,6 +36,7 @@
 - [ ] [Awesome Scalability](https://github.com/binhnguyennus/awesome-scalability#talk)
 - [ ] [Systems Performance Books](https://twitter.com/gakonst/status/1670481033056354305)
 - [ ] [Books about big and performant distributed systems](https://twitter.com/fede_intern/status/1672672038123720708)
+- [ ] [Systems Architect](https://github.com/sergeyleschev/system-design/blob/main/sergeyleschev-system-architect-roadmap.md#performance-vs-scalability)
 ---
 ### Videos
 - [ ] [Making Software 'Correct by Construction'](https://www.youtube.com/watch?v=03mUs5NlT6)

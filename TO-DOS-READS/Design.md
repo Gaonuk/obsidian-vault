@@ -10,4 +10,5 @@
 - [Design inspiration](https://t.co/n46NPgkrlT)
 - [5/9 Personal Design System](https://t.co/BScQbrJC0T)
 - [DesignSystem resources](https://t.co/Y8FBYZ9K4U)
-- 
+- [28 days of Figma challenge](https://www.figbruary.com/prompts)
+- [Curated web design inspiration](https://www.curated.design/)

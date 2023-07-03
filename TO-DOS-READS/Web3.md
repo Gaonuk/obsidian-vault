@@ -60,3 +60,4 @@
 - [ ] [An alternative path](https://t.co/Km829HZrxk)
 - [ ] [Scaling Crypto Apps Not Infrastructure](https://t.co/HU9OoWdbMb)
 - [ ] [ZkSync credo](https://t.co/BdEH5pecC6)
+- [ ] [Frontier Research](https://frontier.tech/)

@@ -11,6 +11,7 @@
 - [ ] [Porter's ZKP Course](https://www.youtube.com/watch?v=-2qHqfqPeR8)
 - [ ] [ZKHack's Whiteboard Sessions](https://zkhack.dev/whiteboard/)
 - [ ] [0xParc](https://learn.0xparc.org/circom/)
+- [ ] [Battleship with Noir and ZKP](https://www.youtube.com/playlist?list=PLWACGbvIsEgnR2aUCr9i-PpmTVhF5Zuik)
 
 ----
 
@@ -36,4 +37,4 @@
 - [ ] [Demystifying ZKPs with Porter Adams](https://t.co/EeInDIEQED)
 - [ ] [Unifying Zero Knowledge Proofs of Knowledge](https://t.co/An6IKOHb8i)
 - [ ] [A hacker's guide to Layer 2](https://t.co/YZ5rKCf3af)
-- [ ] 
+- [ ] [Zero Knowledge A-Z](https://telegra.ph/ZK-SNARKs-VS-ZK-STARKs-01-10)

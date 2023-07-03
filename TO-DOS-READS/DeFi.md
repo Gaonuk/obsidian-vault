@@ -5,6 +5,7 @@
 - [ ] [Alchemy Tutorials](https://docs.alchemy.com/docs/tutorials-overview)
 - [ ] [Speedrun Ethereum](https://speedrunethereum.com/)
 - [ ] Build a CryptoZombies alternative with Foundry and modern solidity practices
+- [ ] [Superfluid Ideas](https://superfluidhq.notion.site/Superfluid-Wave-Pool-Project-Ideas-7e8c792758004bd2ae452d1f9810cc58#edcb364c0c00442c9ebdc173c9b14c04)
 - [ ] [Learn Blockchains by Building One](https://t.co/6GmkSMUOyE)
 - [ ] [Build Uni V2](https://t.co/sLw3HATS5n)
 - [ ] [Building smol evm](https://t.co/G5Fdb4hrUQ)
@@ -25,7 +26,6 @@
 - [ ] [Foundry FFI cheatcode tips](https://twitter.com/0xValerius_/status/1668744149892210690?s=20)
 - [ ] [Programming UniV2](https://t.co/jNfsaoFFWP)
 - [ ] [Ponder: The Blockchain Backend Framework](https://t.co/lEyFrOcm6M)
-- [ ] 
 
 ----
 
@@ -83,6 +83,7 @@
 - [ ] [Introducing Alloy: Fast, battle-tested and well-documented building blocks for Ethereum, in Rust](https://www.paradigm.xyz/2023/06/alloy)
 - [ ] [A Primer on Uniswap v3 Math Part 2](https://t.co/VY1rwk78Nz)
 - [ ] [What happens when you send 1 DAI](https://t.co/jo2xwdRwFG)
+- [ ] [Solidity code guidelines](https://makemake.site/post/sol-guidelines)
 
 ----
 
@@ -102,3 +103,12 @@
 - [ ] [What Can Privacy Do for Mechanism Design?](https://www.youtube.com/watch?v=Rw0tv-43JAU)
 - [ ] [Ethereum Explained: Research, Spec, Clients, & Nodes](https://t.co/W7xujkArxX)
 - [ ] [Collection of youtube channels about solitidy](https://twitter.com/apoorvlathey/status/1672759800323780609)
+
+### Tools
+---
+- [ ] [Frame: Modern Web3 for Desktop](https://frame.sh/)
+- [ ] [DFNS: Web3 Wallets as APIs](https://www.dfns.co/)
+- [ ] [Castle](https://castle.link/)
+- [ ] [Mirror Worlds: Web3 Tools](https://mirrorworld.fun/)
+- [ ] [Yasp: Non-custodial wallet](https://yasp.fi/)
+- [ ] [Portal: Web3 integrations made simple](https://www.portalhq.io/)

@@ -22,6 +22,7 @@
 - [ ] [Modern way of serving images](https://t.co/abFIRIb0PW)
 - [ ] [From the Transistor to the Web Browser, a rough outline for a 12 week course](https://t.co/zOPd9ri5xn)
 - [ ] [Open Source stack](https://twitter.com/kaarthikcodes/status/1672207680306548736?s=20)
+- [ ] [Build a website with Notion](https://super.so/)
 
 ## Tutorials
 ---
@@ -31,6 +32,7 @@
 - [ ] [Send warm welcome emails with Resent, Next-Auth, React Email](https://t.co/Djt1b6RXyj)
 - [ ] [Building a serverless chatgpt powered resume assistant](https://t.co/si5YD3TEHi)
 - [ ] [LambdaClass Open-Source Hacking Learning Path](https://t.co/KvWfBxoWKe)
+- [ ] [Codewars](https://www.codewars.com/)
 
 ## Cryptography
 ---
@@ -57,7 +59,6 @@
 ---
 - [ ] [Hardware Review: GPUs , FPGAs and Zero Knowledge Proofs](https://hackmd.io/@0xMonia/SkQ6-oRz3)
 - [ ] [Simulate a CPU in code](https://djharper.dev/post/2019/05/21/i-dont-know-how-cpus-work-so-i-simulated-one-in-code/)
-- [ ] 
 
 ## Command Line Interface
 ---

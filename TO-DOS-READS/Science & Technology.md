@@ -16,11 +16,9 @@
 ## Future Cities
 - [ ] [New Cities, Network States & Technology](https://twitter.com/NiklasAnzinger/status/1657392523566895106)
 - [ ] [Building a Network City](https://www.youtube.com/watch?v=i5AfpzgE6gA)
-- [ ] 
 
 ## Seaflooding
 - [Seaflooding](https://unchartedterritories.tomaspueyo.com/p/seaflooding)
 
 ### Carbon capture -> fuel and water
 - https://t.co/FxgHDNGJva
-- 
