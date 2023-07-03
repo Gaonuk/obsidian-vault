@@ -162,7 +162,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -179,7 +180,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b561216ec9640969",
+  "active": "3577948c0e65bc50",
   "lastOpenFiles": [
     "Random stuff.md",
     "ComputeAddress code.md",
