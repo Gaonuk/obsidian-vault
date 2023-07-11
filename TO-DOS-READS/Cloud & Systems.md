@@ -27,7 +27,7 @@
 - [ ] [Data streaming on AWS](https://t.co/Z4PhI9EqDc)
 - [ ] [A guide for choosing the best API Gateway](https://t.co/jErDojgyJx)
 - [ ] [The future of logs/data observability in apps](https://t.co/D98Dcbgpyb)
-- [ ] [FIGMA-OS: TURING-COMPLETE COMPUTER IN FIGMA](https://t.co/LfIgUJVG3z)
+- [x] [FIGMA-OS: TURING-COMPLETE COMPUTER IN FIGMA](https://t.co/LfIgUJVG3z) ✅ 2023-07-03
 - [ ] [Building a serverless app with NestJS and Serverless Framework](https://t.co/ZtcWizNZW3)
 ---
 #### Resources

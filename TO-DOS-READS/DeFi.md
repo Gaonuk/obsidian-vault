@@ -112,3 +112,8 @@
 - [ ] [Mirror Worlds: Web3 Tools](https://mirrorworld.fun/)
 - [ ] [Yasp: Non-custodial wallet](https://yasp.fi/)
 - [ ] [Portal: Web3 integrations made simple](https://www.portalhq.io/)
+- [ ] [Portfolio analysis](https://www.clustr.io/)
+- [ ] [Decentralized Options](https://app.lyra.finance/#/trade/arbitrum/eth-usdc)
+- [ ] [Thales: Decentralized Options](https://thalesmarket.io/markets)
+- [ ] [Polynomial Finance](https://trade.polynomial.fi/)
+- [ ] 

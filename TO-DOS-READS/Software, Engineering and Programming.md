@@ -23,6 +23,11 @@
 - [ ] [From the Transistor to the Web Browser, a rough outline for a 12 week course](https://t.co/zOPd9ri5xn)
 - [ ] [Open Source stack](https://twitter.com/kaarthikcodes/status/1672207680306548736?s=20)
 - [ ] [Build a website with Notion](https://super.so/)
+- [ ] [Async Meetings Tool](https://minutes.so/)
+- [ ] [Label Issues on Github with AI](https://maige.app/)
+- [ ] [Monitoring with Checkly](https://www.checklyhq.com/)
+- [ ] [The great Denosaur](https://deno.land/)
+- [ ] [Edge Databases](https://turso.tech/)
 
 ## Tutorials
 ---
@@ -33,6 +38,7 @@
 - [ ] [Building a serverless chatgpt powered resume assistant](https://t.co/si5YD3TEHi)
 - [ ] [LambdaClass Open-Source Hacking Learning Path](https://t.co/KvWfBxoWKe)
 - [ ] [Codewars](https://www.codewars.com/)
+- [ ] [Deploy global fullstack apps](https://www.epicweb.dev/tutorials/deploy-web-applications)
 
 ## Cryptography
 ---

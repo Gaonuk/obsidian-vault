@@ -46,3 +46,49 @@ IUniswapV3PoolState(position.pool), position
 
 }
 ```
+
+```
+(address poolAddress,,,,,,,) = butler.positions(state.positionId);
+
+(, int24 currentTick,,,,,) = butler.getPoolSlot0(poolAddress);
+
+  
+
+int24 newLowerTick;
+
+int24 newUpperTick;
+
+  
+
+assembly {
+
+let tickSpacing := 60
+
+let tickRangeQuantity := 10
+
+  
+
+newLowerTick := sub(currentTick, mul(tickSpacing, tickRangeQuantity))
+
+newUpperTick := add(currentTick, mul(tickSpacing, tickRangeQuantity))
+
+}
+
+  
+
+(
+
+uint256 currentAmount0,
+
+uint256 currentAmount1,
+
+uint256 neededAmount0,
+
+uint256 neededAmount1
+
+) = butler.getPositionCurrentAndNeededAmountsForTicks(
+
+state.positionId, newLowerTick, newUpperTick
+
+);
+```
