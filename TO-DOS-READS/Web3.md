@@ -61,3 +61,4 @@
 - [ ] [Scaling Crypto Apps Not Infrastructure](https://t.co/HU9OoWdbMb)
 - [ ] [ZkSync credo](https://t.co/BdEH5pecC6)
 - [ ] [Frontier Research](https://frontier.tech/)
+- [ ] [API for Digital Dollars](https://www.bridge.xyz/#oi)

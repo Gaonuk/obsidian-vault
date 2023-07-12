@@ -116,4 +116,5 @@
 - [ ] [Decentralized Options](https://app.lyra.finance/#/trade/arbitrum/eth-usdc)
 - [ ] [Thales: Decentralized Options](https://thalesmarket.io/markets)
 - [ ] [Polynomial Finance](https://trade.polynomial.fi/)
+- [ ] [CTFs or whatever](https://www.theblockchainerhub.xyz/ctfs/Ctfs)
 - [ ] 

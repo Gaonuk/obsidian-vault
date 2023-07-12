@@ -204,8 +204,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "519511293801f934",
+  "active": "748b9aa3157f1f57",
   "lastOpenFiles": [
+    "TO-DOS-READS/Web3.md",
     "TO-DOS-READS/DeFi.md",
     "TO-DOS-READS/Software, Engineering and Programming.md",
     "Random stuff.md",
@@ -217,7 +218,6 @@
     "Build a CryptoZombies alternative with Foundry.md",
     "Solidity Patterns & Architectures.md",
     "TO-DOS-READS/Auditoooor.md",
-    "TO-DOS-READS/Web3.md",
     "TO-DOS-READS/Cloud & Systems.md",
     "TO-DOS-READS/Design.md",
     "Boat names.md",

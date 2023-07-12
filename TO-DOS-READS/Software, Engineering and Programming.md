@@ -51,6 +51,9 @@
 - [ ] [Elliptic curves: gentle intro](https://andrea.corbellini.name/2015/05/17/elliptic-curve-cryptography-a-gentle-introduction/)
 - [ ] [Animated elliptic curves](https://curves.xargs.org/)
 - [ ] [Number theory](https://explained-from-first-principles.com/number-theory/)
+- [ ] [Intro to ROP](https://codearcana.com/posts/2013/05/28/introduction-to-return-oriented-programming-rop.html)
+- [ ] [ROP Article](https://www.ired.team/offensive-security/code-injection-process-injection/binary-exploitation/rop-chaining-return-oriented-programming)
+- [ ] [ROP slides](https://shell-storm.org/talks/ROP_course_lecture_jonathan_salwan_2014.pdf)
 
 ## Artificial Intelligence
 ---
