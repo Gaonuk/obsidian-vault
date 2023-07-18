@@ -38,3 +38,5 @@
 - [ ] [Unifying Zero Knowledge Proofs of Knowledge](https://t.co/An6IKOHb8i)
 - [ ] [A hacker's guide to Layer 2](https://t.co/YZ5rKCf3af)
 - [ ] [Zero Knowledge A-Z](https://telegra.ph/ZK-SNARKs-VS-ZK-STARKs-01-10)
+- [ ] [Hickup ZK Journey](https://sunrise-clerk-234.notion.site/Hickup-s-ZK-Journey-affa9ce9cdf44a33b3549c37f908521a)
+- [ ] [Nova Attack](https://www.zksecurity.xyz/blog/posts/nova-attack/)

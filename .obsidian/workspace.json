@@ -13,20 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Solidity Patterns & Architectures.md",
+                "file": "TO-DOS-READS/Solidity Patterns & Architectures.md",
                 "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "75bc95b2b543cde9",
+            "id": "c579b07598124716",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ComputeAddress code.md",
-                "mode": "preview",
+                "file": "Entrepreneurship in Web3/Entrepreneurship 101.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -45,20 +45,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Solidity Patterns & Architectures.md",
+                "file": "TO-DOS-READS/Solidity Patterns & Architectures.md",
                 "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "22d6770ad7ace85c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ComputeAddress code.md",
-                "mode": "source",
                 "source": false
               }
             }
@@ -70,13 +58,13 @@
               "type": "markdown",
               "state": {
                 "file": "TO-DOS-READS/Software, Engineering and Programming.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +93,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "lamb",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -142,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TO-DOS-READS/Software, Engineering and Programming.md",
+                "file": "Entrepreneurship in Web3/Entrepreneurship 101.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TO-DOS-READS/Software, Engineering and Programming.md",
+                "file": "Entrepreneurship in Web3/Entrepreneurship 101.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TO-DOS-READS/Software, Engineering and Programming.md"
+                "file": "Entrepreneurship in Web3/Entrepreneurship 101.md"
               }
             }
           }
@@ -204,35 +192,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "748b9aa3157f1f57",
+  "active": "c579b07598124716",
   "lastOpenFiles": [
-    "TO-DOS-READS/Web3.md",
-    "TO-DOS-READS/DeFi.md",
+    "Basic Card Game Onchain in Linea with Infura.md",
+    "TO-DOS-READS/Zero Knowledge.md",
+    "TO-DOS-READS/Auditoooor.md",
     "TO-DOS-READS/Software, Engineering and Programming.md",
-    "Random stuff.md",
+    "TO-DOS-READS/DeFi.md",
     "TO-DOS-READS/EVM.md",
-    "TO-DOS-READS/Rust.md",
-    "TO-DOS-READS/Science & Technology.md",
-    "ComputeAddress code.md",
+    "TO-DOS-READS/Solidity Patterns & Architectures.md",
+    "TO-DOS-READS/Web3.md",
+    "TO-DOS-READS/Entrepreneurship & Startups.md",
+    "Random stuff.md",
     "Clase de ciberseguridad.md",
     "Build a CryptoZombies alternative with Foundry.md",
-    "Solidity Patterns & Architectures.md",
-    "TO-DOS-READS/Auditoooor.md",
+    "Boat names.md",
+    "Entrepreneurship in Web3/Entrepreneurship 101.md",
+    "Auditing/Horsefacts Interview.md",
+    "ComputeAddress code.md",
     "TO-DOS-READS/Cloud & Systems.md",
     "TO-DOS-READS/Design.md",
-    "Boat names.md",
-    "Auditing/Horsefacts Interview.md",
-    "TO-DOS-READS/Zero Knowledge.md",
-    "TO-DOS-READS/Entrepreneurship & Startups.md",
     "TO-DOS-READS/General Knowledge.md",
+    "TO-DOS-READS/Rust.md",
+    "TO-DOS-READS/Science & Technology.md",
     "Bookmarks/DeFi.md",
     "Bookmarks/Misc.md",
     "Supreme TODO.md",
     "().md",
     "TO-DOS-READS",
     "Reu Wallstate.md",
-    "Entrepreneurship in Web3/Entrepreneurship 101.md",
-    "Bookmarks/Solana.md",
     "Bookmarks",
     "Untitled.canvas",
     "Auditing",

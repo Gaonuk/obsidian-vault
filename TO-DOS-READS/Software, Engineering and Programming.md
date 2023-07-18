@@ -28,6 +28,15 @@
 - [ ] [Monitoring with Checkly](https://www.checklyhq.com/)
 - [ ] [The great Denosaur](https://deno.land/)
 - [ ] [Edge Databases](https://turso.tech/)
+- [ ] [Dotfiles](https://dotfiles.substack.com/p/12-yaroslav-lapin?sd=pf)
+- [ ] [NextJS App Router ready for prod??](https://t.co/c8UrFIQoRx)
+- [ ] [Stack for building Udacity](https://twitter.com/KolbySisk/status/1678075411496828929?s=20)
+- [ ] [Rich text editor for React](https://github.com/udecode/plate)
+- [ ] [What the framework?](https://whattheframework.dev/)
+- [ ] [Next International](https://t.co/vsA2AqVnc5)
+- [ ] [NextJS Notion](https://transitivebullsh.it/nextjs-notion-starter-kit)
+- [ ] [Mermaid Diagramming and charting tool](https://mermaid.js.org/)
+- [ ] [Zag UI Components](https://zagjs.com/)
 
 ## Tutorials
 ---
@@ -39,6 +48,7 @@
 - [ ] [LambdaClass Open-Source Hacking Learning Path](https://t.co/KvWfBxoWKe)
 - [ ] [Codewars](https://www.codewars.com/)
 - [ ] [Deploy global fullstack apps](https://www.epicweb.dev/tutorials/deploy-web-applications)
+- [ ] [Build your own ChatGPT](https://twitter.com/kiwicopple/status/1677256180861743104?s=20)
 
 ## Cryptography
 ---
@@ -54,6 +64,7 @@
 - [ ] [Intro to ROP](https://codearcana.com/posts/2013/05/28/introduction-to-return-oriented-programming-rop.html)
 - [ ] [ROP Article](https://www.ired.team/offensive-security/code-injection-process-injection/binary-exploitation/rop-chaining-return-oriented-programming)
 - [ ] [ROP slides](https://shell-storm.org/talks/ROP_course_lecture_jonathan_salwan_2014.pdf)
+- [ ] [Learn Game Hacking](https://guidedhacking.com/)
 
 ## Artificial Intelligence
 ---
@@ -73,3 +84,4 @@
 ---
 - [ ] [ink: React for CLI apps](https://github.com/vadimdemedes/ink)
 - [ ] [CLI Guidelines](https://clig.dev/)
+- [ ] [asdf](https://asdf-vm.com/)

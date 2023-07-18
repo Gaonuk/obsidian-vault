@@ -15,16 +15,7 @@
 - https://github.com/ourzora/v3
 - https://jacob.energy/hyperstructures.html
 - https://github.com/aave/aave-v3-core/tree/master
-
-### Arrakis for inspo
-
-- https://dune.com/arrakis_finance/palm-mainnet
-- https://github.com/ArrakisFinance/v2-palm/blob/main/contracts/PALMManager.sol
-- https://github.com/ArrakisFinance/v2-manager-templates
-- https://github.com/ArrakisFinance/v2-periphery
-- https://github.com/ArrakisFinance/v2-core
-- https://github.com/ArrakisFinance/v2-tutorials
-- https://resources.arrakis.fi/palm/how-it-works
-- https://docs.arrakis.fi/arrakis-v2-core/arrakisv2#rebalance
-- https://mirror.xyz/0x916563f8476b988855af0b8b8A3D56072E1917FA/dDECIZ2xM5EUolG5Lrkrk5XyXgUrfrnaboDDuGYXXBg
-- https://etherscan.io/tx/0x4fb84d046cc9240750e8cf38cb9def8302605f02c2d02725e11fd07f4a5493f9
+- [Create2 Factory](https://t.co/VafvpVkT7j)
+- [Create3](https://github.com/0xsequence/create3/tree/master)
+- [All about EVM data locations](https://betterprogramming.pub/solidity-tutorial-all-about-data-locations-dabd33212471)
+- [ourZora Contract overview](https://twitter.com/onnnnnnnion/status/1672231606436896768?s=20)

@@ -26,6 +26,9 @@
 - [ ] [Foundry FFI cheatcode tips](https://twitter.com/0xValerius_/status/1668744149892210690?s=20)
 - [ ] [Programming UniV2](https://t.co/jNfsaoFFWP)
 - [ ] [Ponder: The Blockchain Backend Framework](https://t.co/lEyFrOcm6M)
+- [ ] [MEV-Share guides](https://docs.flashbots.net/flashbots-mev-share/searchers/tutorials/limit-order/introduction)
+- [ ] [Build your own Block Explorer](https://twitter.com/erayajk/status/1675460369257512960?s=20)
+- [ ] [WTF Academy](https://www.wtf.academy/en/)
 
 ----
 
@@ -84,6 +87,8 @@
 - [ ] [A Primer on Uniswap v3 Math Part 2](https://t.co/VY1rwk78Nz)
 - [ ] [What happens when you send 1 DAI](https://t.co/jo2xwdRwFG)
 - [ ] [Solidity code guidelines](https://makemake.site/post/sol-guidelines)
+- [ ] [Web3 Study List](https://sergiomazariego.notion.site/Web-3-Study-List-c8d85ae6300344c99013508fff461401?pvs=4)
+- [ ] [Account Abstraction](https://composable-security.com/blog/account-abstraction-a-tale-on-the-evolution-of-wallets/)
 
 ----
 
@@ -103,6 +108,7 @@
 - [ ] [What Can Privacy Do for Mechanism Design?](https://www.youtube.com/watch?v=Rw0tv-43JAU)
 - [ ] [Ethereum Explained: Research, Spec, Clients, & Nodes](https://t.co/W7xujkArxX)
 - [ ] [Collection of youtube channels about solitidy](https://twitter.com/apoorvlathey/status/1672759800323780609)
+- [ ] [Solidity Engineering Group](https://www.youtube.com/@EthereumEngineeringGroup)
 
 ### Tools
 ---
@@ -117,4 +123,4 @@
 - [ ] [Thales: Decentralized Options](https://thalesmarket.io/markets)
 - [ ] [Polynomial Finance](https://trade.polynomial.fi/)
 - [ ] [CTFs or whatever](https://www.theblockchainerhub.xyz/ctfs/Ctfs)
-- [ ] 
+- [ ] [Web3 Data Basecamp](https://basement.dev/?ref=producthunt)

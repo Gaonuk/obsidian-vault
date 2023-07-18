@@ -62,3 +62,5 @@
 - [ ] [ZkSync credo](https://t.co/BdEH5pecC6)
 - [ ] [Frontier Research](https://frontier.tech/)
 - [ ] [API for Digital Dollars](https://www.bridge.xyz/#oi)
+- [ ] [Infinte Games](https://frontier.tech/infinite-games)
+- [ ] [Onchain Life](https://world.mirror.xyz/X5FPDwUjCXhQVRqaGiyH-MXyQG5SU4D-pt7c6aW0un0)

@@ -14,6 +14,8 @@
 - [ ] [Dragonfly Puzzlebox](https://ctf.dragonfly.xyz/)
 - [ ] [MevSec CTF](https://ctf.mevsec.com/)
 - [ ] [Decently Safe DeFi Wargame](https://twitter.com/AshiqAmien/status/1672600073602052102?s=20)
+- [ ] [Secureum Bootcamp](https://github.com/x676f64/secureum-mind_map)
+- [ ] [Solodit](https://solodit.xyz/)
 
 ---
 
@@ -24,3 +26,18 @@
 - [ ] [Sec Research Dashboard](https://protective-stranger-59a.notion.site/Security-Researcher-Dashboard-8f742178141845129b0a3dee19c1703f)
 - [ ] [Security guide to proxy vulns](https://t.co/uRRIYwPq8j)
 - [ ] [What do you ask developers as an auditor?](https://t.co/P1S8giZZUE)
+- [ ] [God-tier solidity repo](https://twitter.com/PaulRBerg/status/1679914736950050816?s=20)
+- [ ] [Protocol Diagraming](https://twitter.com/SpearbitDAO/status/1677031987612098562?s=20)
+- [ ] [All about assembly](https://jeancvllr.medium.com/solidity-tutorial-all-about-assembly-5acdfefde05c)
+- [ ] [Deconstructing a Solidity Contract](https://blog.openzeppelin.com/deconstructing-a-solidity-contract-part-ii-creation-vs-runtime-6b9d60ecb44c)
+- [ ] [Signature Replay Attacks](https://dacian.me/signature-replay-attacks)
+- [ ] [You're writing require statements wrong](https://www.nascent.xyz/idea/youre-writing-require-statements-wrong)
+- [ ] [Spearbit Armory](https://github.com/spearbit/armory)
+- [ ] [Demystifying LayerZero](https://3agle.priyamsoni.com/demystifying-layerzero)
+- [ ] [Proxies Deep Dive](https://proxies.yacademy.dev/pages/proxies-list/#beacon-proxy)
+
+---
+### Videos
+- [ ] [Tincho's intro to security in solidity](https://www.youtube.com/live/v9ANh5wmj_A?feature=share&t=17286)
+- [ ] [OZ 100% Coverage 0% Security](https://youtube.com/watch?v=vCfeff4nu-g)
+- [ ] [Deployment Validation Standard]([https://youtube.com/watch?v=vCfeff4nu-g](https://t.co/7rtiqsUvWC))

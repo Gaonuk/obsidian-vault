@@ -15,3 +15,4 @@
 - [ ] [EVM Through CTFs](https://www.evmthroughctfs.com/)
 - [ ] [EVM puzzles](https://t.co/rPp1MPY0yX)
 - [ ] [EVM From Scratch](https://github.com/w1nt3r-eth/evm-from-scratch/tree/main)
+- [ ] [Learn EVM attacks](https://github.com/coinspect/learn-evm-attacks)
