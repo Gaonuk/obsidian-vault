@@ -37,6 +37,8 @@
 - [ ] [NextJS Notion](https://transitivebullsh.it/nextjs-notion-starter-kit)
 - [ ] [Mermaid Diagramming and charting tool](https://mermaid.js.org/)
 - [ ] [Zag UI Components](https://zagjs.com/)
+- [ ] [Compilers Book](https://www.amazon.com/Compilers-Principles-Techniques-Tools-2nd/dp/0321486811)
+- [ ] [Structure and Interpretation of Computer Programs](https://sarabander.github.io/sicp/html/)
 
 ## Tutorials
 ---
@@ -49,6 +51,7 @@
 - [ ] [Codewars](https://www.codewars.com/)
 - [ ] [Deploy global fullstack apps](https://www.epicweb.dev/tutorials/deploy-web-applications)
 - [ ] [Build your own ChatGPT](https://twitter.com/kiwicopple/status/1677256180861743104?s=20)
+- [ ] [Nand2Tetris](https://www.nand2tetris.org/course)
 
 ## Cryptography
 ---
@@ -65,6 +68,8 @@
 - [ ] [ROP Article](https://www.ired.team/offensive-security/code-injection-process-injection/binary-exploitation/rop-chaining-return-oriented-programming)
 - [ ] [ROP slides](https://shell-storm.org/talks/ROP_course_lecture_jonathan_salwan_2014.pdf)
 - [ ] [Learn Game Hacking](https://guidedhacking.com/)
+- [ ] [ECDSA](https://blog.cloudflare.com/ecdsa-the-digital-signature-algorithm-of-a-better-internet/)
+- [ ] [Advent of Code](https://adventofcode.com/2022/about)
 
 ## Artificial Intelligence
 ---

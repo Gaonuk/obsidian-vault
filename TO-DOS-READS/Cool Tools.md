@@ -1,0 +1,8 @@
+- [Keep Open-Source Alerting](https://www.keephq.dev/)  #alerts
+- [Highlight](https://www.highlight.io/) #monitoring 
+- [ConnectKit](https://family.co/) #wallets
+- [Dragonfly (25x better Redis)](https://www.dragonflydb.io/) #bdd 
+- [Logseq](https://logseq.com/) #note-taking
+- [Panda-css](https://panda-css.com/) #css
+- [ElysiaJS Bun Framework](https://elysiajs.com/) #backend #bun #typescript
+- [Skiff apps](https://skiff.com/) #privacy #workspace 

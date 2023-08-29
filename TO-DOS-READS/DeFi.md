@@ -29,6 +29,7 @@
 - [ ] [MEV-Share guides](https://docs.flashbots.net/flashbots-mev-share/searchers/tutorials/limit-order/introduction)
 - [ ] [Build your own Block Explorer](https://twitter.com/erayajk/status/1675460369257512960?s=20)
 - [ ] [WTF Academy](https://www.wtf.academy/en/)
+- [ ] [zkSNARKs with Succinct](https://www.succinct.xyz/)
 
 ----
 
@@ -124,3 +125,6 @@
 - [ ] [Polynomial Finance](https://trade.polynomial.fi/)
 - [ ] [CTFs or whatever](https://www.theblockchainerhub.xyz/ctfs/Ctfs)
 - [ ] [Web3 Data Basecamp](https://basement.dev/?ref=producthunt)
+- [ ] [Smol dapps](https://smold.app/safe)
+
+

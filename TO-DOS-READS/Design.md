@@ -12,3 +12,14 @@
 - [DesignSystem resources](https://t.co/Y8FBYZ9K4U)
 - [28 days of Figma challenge](https://www.figbruary.com/prompts)
 - [Curated web design inspiration](https://www.curated.design/)
+- [Badass portfolio by Maciej](https://www.maciej.co/)
+- [SVG Paths](https://www.nan.fyi/svg-paths)
+- [Open Source Illustrations Transhumans](https://www.transhumans.xyz/?ref=producthunt)
+- [WebGL](https://webgl.app/)
+
+---
+##### Great Portfolios
+- https://rauno.me/craft/nextjs
+- https://paco.me/
+- https://redd.one/
+- https://www.ansubkhan.com/

@@ -35,9 +35,18 @@
 - [ ] [Spearbit Armory](https://github.com/spearbit/armory)
 - [ ] [Demystifying LayerZero](https://3agle.priyamsoni.com/demystifying-layerzero)
 - [ ] [Proxies Deep Dive](https://proxies.yacademy.dev/pages/proxies-list/#beacon-proxy)
+- [ ] [matta.’s Ethereum security road-map](https://mattaereal.notion.site/matta-s-Ethereum-security-road-map-cf7d7f2e48ea4aa0a8f4a2eff86342a7)
+- [ ] [Solidity Interview Questions](https://www.rareskills.io/post/solidity-interview-questions)
+- [ ] https://www.ctfnote.com/
 
 ---
 ### Videos
 - [ ] [Tincho's intro to security in solidity](https://www.youtube.com/live/v9ANh5wmj_A?feature=share&t=17286)
 - [ ] [OZ 100% Coverage 0% Security](https://youtube.com/watch?v=vCfeff4nu-g)
 - [ ] [Deployment Validation Standard]([https://youtube.com/watch?v=vCfeff4nu-g](https://t.co/7rtiqsUvWC))
+
+---
+### Foundry commands
+- `forge script <ScriptName>`  + flags `--broadcast` for sending to the chain
+- `forge inspect src/test.sol:Test storage --pretty` to check storage layout
+- use `vm.createSelectFork` to use fork testing

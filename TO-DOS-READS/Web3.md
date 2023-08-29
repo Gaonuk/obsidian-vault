@@ -64,3 +64,6 @@
 - [ ] [API for Digital Dollars](https://www.bridge.xyz/#oi)
 - [ ] [Infinte Games](https://frontier.tech/infinite-games)
 - [ ] [Onchain Life](https://world.mirror.xyz/X5FPDwUjCXhQVRqaGiyH-MXyQG5SU4D-pt7c6aW0un0)
+- [ ] [Frontier Research](https://www.youtube.com/channel/UC_V4HfBeXEi98kJQpMgUPoQ)
+- [ ] [Visa Account Abstraction](https://usa.visa.com/solutions/crypto/rethink-digital-transactions-with-account-abstraction.html)
+- [ ] 

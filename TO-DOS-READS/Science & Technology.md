@@ -12,7 +12,9 @@
 ## Space
 - [ ] [Space for 8 Billion People](https://planetocracy.substack.com/p/space-for-8-billion-people)
 - [ ] [Economy class to the stars](https://t.co/0rAcdKzjM4)
-
+- [ ] [SpaceX Launches per year](https://twitter.com/thesheetztweetz/status/1668394719171182592?lang=en)
+- [ ] [Making Spaceflight Safer](https://www.kayhan.space/)
+- [ ] [New Space Economy](https://www.edx.org/learn/business-administration/ecole-polytechnique-federale-de-lausanne-new-space-economy?index=product&queryID=696935b8ecc9ba5414f8aa2797ed6b06&position=3&results_level=second-level-results&term=space&objectID=course-e8bd5363-27d4-4743-a3f2-2b65646e6c71&campaign=New+Space+Economy&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fsearch)
 ## Future Cities
 - [ ] [New Cities, Network States & Technology](https://twitter.com/NiklasAnzinger/status/1657392523566895106)
 - [ ] [Building a Network City](https://www.youtube.com/watch?v=i5AfpzgE6gA)

@@ -17,9 +17,37 @@
 #### Main guide to follow for stack and tools
 - https://iximiuz.com/en/posts/iximiuz-labs-story/
 - https://twitter.com/iximiuz/status/1640380028952227843
-
+- https://fly.io/docs/machines/
+- https://github.com/yudai/gotty
+- https://xtermjs.org/
+- https://firecracker-microvm.github.io/
+- https://iximiuz.com/en/posts/containers-vs-pods/
+- https://github.com/alexellis/firecracker-init-lab
+- https://github.com/weaveworks/ignite
+- https://jvns.ca/blog/2023/05/25/new-playground--memory-spy/
+- https://github.com/alexellis/arkade
 ### Stack to use
+- Typescript (Frontend with NextJS)
+- Rust? trpc?
+- Shadcn UI
+- Two main daemons, both expose HTTP APIs (via [chi](https://github.com/go-chi/chi))
+	- systemd service
+	- docker container
+- Docker:
+	- For development purposes - various dev tools are containerized.
+	- As a means to package and deploy the daemons, microVM rootfs and kernel images, etc.
+	- As a runtime for one of the daemons and surrounding infrastructure (Redis, Nginx, Envoy, etc.).
+	- As a runtime for playgrounds - Firecracker microVMs are launched inside Docker containers.
 
+- Nginx - as a reverse-proxy in front of the backend daemons.
+- Envoy - as a transparent TCP egress proxy for the microVMs
+- Redis - as a storage for daemons' state and as a message broker between them. (can use Dragonfly)
+
+Hosting
+- Frontend: Vercel
+- Backend: fly.io Machines
+- Database: Planetscale
+- Workers?: Hetzner Auction
 
 
 ## TODO List

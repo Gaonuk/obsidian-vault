@@ -40,3 +40,7 @@
 - [ ] [Zero Knowledge A-Z](https://telegra.ph/ZK-SNARKs-VS-ZK-STARKs-01-10)
 - [ ] [Hickup ZK Journey](https://sunrise-clerk-234.notion.site/Hickup-s-ZK-Journey-affa9ce9cdf44a33b3549c37f908521a)
 - [ ] [Nova Attack](https://www.zksecurity.xyz/blog/posts/nova-attack/)
+- [ ] [yAcademy ZK](https://yacademy.dev/fellowships/zBlock1/)
+- [ ] [Thaler Book](https://people.cs.georgetown.edu/jthaler/ProofsArgsAndZK.pdf)
+- [ ] [Sage](https://doc.sagemath.org/html/en/tutorial/)
+- [ ] [MoonMath study group](https://2b2.notion.site/MoonMath-Study-Group-HQ-ca62f57eb4b34e69aad910654f8e0654)

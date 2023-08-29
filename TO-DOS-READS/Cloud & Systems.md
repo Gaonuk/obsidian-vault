@@ -29,6 +29,8 @@
 - [ ] [The future of logs/data observability in apps](https://t.co/D98Dcbgpyb)
 - [x] [FIGMA-OS: TURING-COMPLETE COMPUTER IN FIGMA](https://t.co/LfIgUJVG3z) ✅ 2023-07-03
 - [ ] [Building a serverless app with NestJS and Serverless Framework](https://t.co/ZtcWizNZW3)
+- [ ] [Cloud and Systems courses](https://courses.arpitbhayani.me/)
+- [ ] [Netflix Open Connect](https://openconnect.netflix.com/en/)
 ---
 #### Resources
 - [ ] [Systems design primer](https://github.com/donnemartin/system-design-primer#real-world-architectures)
