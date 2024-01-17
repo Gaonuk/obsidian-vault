@@ -5,3 +5,9 @@
 - [ ] [How to get good at getting good ideas](https://jamesaltucher.com/blog/how-to-build-your-idea-machine/)
 - [ ] [Do things that don't scale](https://www.dothingsthatdontscale.com/)
 - [ ] [3 ⅓ mega trends in Latin America Report](https://www.allvp.com/post/3-mega-trends-in-latin-america-1)
+- [ ] [Sam Altman: What I Wish Someone Had Told Me Sooner](https://blog.samaltman.com/what-i-wish-someone-had-told-me)
+- [ ] [Anatomy of Next Founder's Fund Podcast](https://foundersfund.com/2018/05/anatomy-next-season-2-episode-2)
+- [ ] [BerkeleyX: Entrepreneurship For All](https://www.edx.org/learn/entrepreneurship/university-of-california-berkeley-entrepreneurship-for-all-part-i-idea-to-launch?webview=false&campaign=Entrepreneurship+For+All+%28Part+I%29%3A+The+UC+Berkeley+Startup+Guide+for+students+by+Silicon+Valley+Insiders&source=edx&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fschool%2Fuc-berkeleyx)
+- [ ] [Nuts and Bolts of Business Plans](https://ocw.mit.edu/courses/15-s21-nuts-and-bolts-of-business-plans-january-iap-2014/)
+- [ ] [MIT: New Enterprises](https://ocw.mit.edu/courses/15-390-new-enterprises-spring-2013/pages/lecture-notes/)
+- [ ] 

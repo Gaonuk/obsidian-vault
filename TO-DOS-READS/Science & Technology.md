@@ -24,3 +24,8 @@
 
 ### Carbon capture -> fuel and water
 - https://t.co/FxgHDNGJva
+
+
+### MIT Open Courseware
+- [Internal Combustion Engines](https://ocw.mit.edu/courses/2-61-internal-combustion-engines-spring-2017/)
+- 

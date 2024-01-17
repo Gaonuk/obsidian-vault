@@ -16,6 +16,8 @@
 - [ ] [Decently Safe DeFi Wargame](https://twitter.com/AshiqAmien/status/1672600073602052102?s=20)
 - [ ] [Secureum Bootcamp](https://github.com/x676f64/secureum-mind_map)
 - [ ] [Solodit](https://solodit.xyz/)
+- [ ] [Gateway Free Web3 Security](https://guardianaudits.notion.site/guardianaudits/Gateway-Free-Web3-Security-Course-574f4d819c144d7895cda6d61ba26503)
+- [ ] https://ctf-maker-monorepo.vercel.app/
 
 ---
 

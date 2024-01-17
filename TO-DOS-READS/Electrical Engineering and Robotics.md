@@ -1,0 +1,9 @@
+- [Dynamics of Nonlinear Systems](https://ocw.mit.edu/courses/6-243j-dynamics-of-nonlinear-systems-fall-2003/pages/syllabus/)
+- [Human Supervisory Control of Automated Systems](https://ocw.mit.edu/courses/16-422-human-supervisory-control-of-automated-systems-spring-2004/)
+- [Introduction To Electronics, Signals, And Measurement](https://ocw.mit.edu/courses/6-071j-introduction-to-electronics-signals-and-measurement-spring-2006/)
+- [Circuits and Electronics](https://ocw.mit.edu/courses/6-002-circuits-and-electronics-spring-2007/)
+- [Dynamics Systems and Control](https://ocw.mit.edu/courses/6-241j-dynamic-systems-and-control-spring-2011/)
+- [Design of Electromechanical Robotic Systems](https://ocw.mit.edu/courses/2-017j-design-of-electromechanical-robotic-systems-fall-2009/)
+- [Cognitive Robotics](https://ocw.mit.edu/courses/16-412j-cognitive-robotics-spring-2016/)
+- [Semiconductor Manufacturing](https://ocw.mit.edu/courses/6-780-semiconductor-manufacturing-spring-2003/)
+- https://underactuated.csail.mit.edu/

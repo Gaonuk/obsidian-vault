@@ -39,6 +39,15 @@
 - [ ] [Zag UI Components](https://zagjs.com/)
 - [ ] [Compilers Book](https://www.amazon.com/Compilers-Principles-Techniques-Tools-2nd/dp/0321486811)
 - [ ] [Structure and Interpretation of Computer Programs](https://sarabander.github.io/sicp/html/)
+- [ ] [Tech Lead](https://betterprogramming.pub/stay-technical-while-leading-your-team-3873a58bf163)
+- [ ] [NextJS Portfolio](https://vercel.com/templates/next.js/nextjs-portfolio)
+- [ ] [Eng Book](https://www.engguidebook.com/)
+- [ ] [Stencil Framework](https://stenciljs.com/)
+- [ ] [Capacitor JS Mobile](https://capacitorjs.com/)
+- [ ] [Write your own VM](https://www.jmeiners.com/lc3-vm/)
+- [ ] [Performance Engineering of Software Systems](https://www.youtube.com/playlist?list=PLUl4u3cNGP63VIBQVWguXxZZi0566y7Wf)
+- [ ] [Distributed Systems](https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB)
+- [ ] [Distributed Computer Systems Waterloo](https://www.youtube.com/playlist?list=PLawkBQ15NDEkDJ5IyLIJUTZ1rRM9YQq6N)
 
 ## Tutorials
 ---
@@ -52,6 +61,7 @@
 - [ ] [Deploy global fullstack apps](https://www.epicweb.dev/tutorials/deploy-web-applications)
 - [ ] [Build your own ChatGPT](https://twitter.com/kiwicopple/status/1677256180861743104?s=20)
 - [ ] [Nand2Tetris](https://www.nand2tetris.org/course)
+- [ ] [tRPC + NextJS 13](https://www.youtube.com/watch?v=qCLV0Iaq9zU)
 
 ## Cryptography
 ---
@@ -78,12 +88,22 @@
 - [ ] [Intro to ZKML](https://t.co/FKVtmhYbVz)
 - [ ] [ai getting started repo](https://t.co/7glgmTfXb7)
 - [ ] [NLP extension to ask OpenBB Finance data](https://twitter.com/jerryjliu0/status/1672637698136489989)
+- [ ] [Research Space, ML Papers](https://www.rsrch.space/)
+- [ ] [Machine Learning MIT OCW](https://ocw.mit.edu/courses/6-867-machine-learning-fall-2006/pages/lecture-notes/)
+- [ ] [DeepLearning](https://www.deeplearning.ai/)
+- [ ] [ML Stash](https://arc.net/e/D242E263-31FD-4CF9-A2D5-B67519C049AF)
+- [ ] [The Little Book of Deep Learning](https://fleuret.org/public/lbdl.pdf)
+- [ ] [AI is good for you](https://www.amazon.com/-/es/Eric-Jang-ebook/dp/B0C1WRN9VR/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=)
+- [ ] https://blog.research.google/2024/01/amie-research-ai-system-for-diagnostic_12.html
 
 
 ## Hardware
 ---
 - [ ] [Hardware Review: GPUs , FPGAs and Zero Knowledge Proofs](https://hackmd.io/@0xMonia/SkQ6-oRz3)
 - [ ] [Simulate a CPU in code](https://djharper.dev/post/2019/05/21/i-dont-know-how-cpus-work-so-i-simulated-one-in-code/)
+- [ ] [Computer System Architecture](https://ocw.mit.edu/courses/6-823-computer-system-architecture-fall-2005/pages/lecture-notes/)
+- [ ] [Computer System Engineering](https://ocw.mit.edu/courses/6-033-computer-system-engineering-spring-2018/pages/resource-index/)
+- [ ] 
 
 ## Command Line Interface
 ---

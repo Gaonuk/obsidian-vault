@@ -9,4 +9,4 @@
 ## Tutorials
 ---
 
-
+- [Rust Template](https://github.com/PaulRBerg/rust-template)

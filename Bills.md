@@ -1,0 +1,3 @@
+- Build Onchain SVGs for a QR code to share money and the code to claim it is stored in the qr code
+- PWA and use social login + smart accounts (to sponsor gas for users)
+- Cashout using an off-ramp or whatever

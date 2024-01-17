@@ -16,7 +16,12 @@
 - [SVG Paths](https://www.nan.fyi/svg-paths)
 - [Open Source Illustrations Transhumans](https://www.transhumans.xyz/?ref=producthunt)
 - [WebGL](https://webgl.app/)
-
+- [Tremor Dashboard Components](https://www.tremor.so/)
+- [Refero](https://refero.design/)
+- [SVG Animations](https://www.svg-animations.how/)
+- [Catalyst](https://catalyst.tailwindui.com/)
+- [Building Awesome Charts with nivo](https://twitter.com/brotzky_/status/1696227743766323710)
+- https://animations.dev/
 ---
 ##### Great Portfolios
 - https://rauno.me/craft/nextjs

@@ -21,3 +21,39 @@
 - [ourZora Contract overview](https://twitter.com/onnnnnnnion/status/1672231606436896768?s=20)
 - https://www.rareskills.io/post/solidity-style-guide
 - [Generate Docusaurus site with comments in Solidity](https://gist.github.com/PaulRBerg/32c195862d206b560f5eb620824b54a0)
+
+
+
+
+
+```typescript
+struct DecodedCallInstruction {
+	address _allowanceTarget;
+	address _buyToken;
+	bytes _callData;
+	uint256 _minBuyAmount;
+	uint256 _sellAmount;
+	address _sellToken;
+	address payable _target;
+}
+
+function test_json() public {
+	bytes memory testStruct = json.parseRaw(".callInstructions");
+	DecodedCallInstruction[] memory decodedCalls = abi.decode(testStruct, (DecodedCallInstruction[]));
+	
+	ITradeIssuerV2.ContractCallInstruction[] memory instructions = new ITradeIssuerV2.ContractCallInstruction[](decodedCalls.length);
+	
+	for (uint256 i = 0; i < decodedCalls.length; ++i) {
+		DecodedCallInstruction memory decodedCall = decodedCalls[i];
+		instructions[i] = ITradeIssuerV2.ContractCallInstruction({
+			_target: payable(decodedCall._target),
+			_allowanceTarget: decodedCall._allowanceTarget,
+			_sellToken: IERC20(decodedCall._sellToken),
+			_sellAmount: decodedCall._sellAmount,
+			_buyToken: IERC20(decodedCall._buyToken),
+			_minBuyAmount: decodedCall._minBuyAmount,
+			_callData: decodedCall._callData
+		});
+	}
+}
+```

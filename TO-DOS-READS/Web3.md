@@ -66,4 +66,5 @@
 - [ ] [Onchain Life](https://world.mirror.xyz/X5FPDwUjCXhQVRqaGiyH-MXyQG5SU4D-pt7c6aW0un0)
 - [ ] [Frontier Research](https://www.youtube.com/channel/UC_V4HfBeXEi98kJQpMgUPoQ)
 - [ ] [Visa Account Abstraction](https://usa.visa.com/solutions/crypto/rethink-digital-transactions-with-account-abstraction.html)
+- [ ] [Make Ethereum Cypherpunk Again](https://vitalik.eth.limo/general/2023/12/28/cypherpunk.html)
 - [ ] 

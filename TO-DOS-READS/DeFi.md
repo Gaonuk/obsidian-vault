@@ -30,6 +30,8 @@
 - [ ] [Build your own Block Explorer](https://twitter.com/erayajk/status/1675460369257512960?s=20)
 - [ ] [WTF Academy](https://www.wtf.academy/en/)
 - [ ] [zkSNARKs with Succinct](https://www.succinct.xyz/)
+- [ ] [Smart Contract Engineer Courses](https://www.smartcontract.engineer/courseshttps://www.smartcontract.engineer/courses)
+- [ ] [Building with Forta Bots](https://docs.forta.network/en/latest/wizard/)
 
 ----
 
@@ -90,6 +92,7 @@
 - [ ] [Solidity code guidelines](https://makemake.site/post/sol-guidelines)
 - [ ] [Web3 Study List](https://sergiomazariego.notion.site/Web-3-Study-List-c8d85ae6300344c99013508fff461401?pvs=4)
 - [ ] [Account Abstraction](https://composable-security.com/blog/account-abstraction-a-tale-on-the-evolution-of-wallets/)
+- [ ] [Jeiwan Posts](https://jeiwan.net/)
 
 ----
 
