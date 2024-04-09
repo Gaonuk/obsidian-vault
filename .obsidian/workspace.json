@@ -204,18 +204,6 @@
             }
           },
           {
-            "id": "5ba301261228eee0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Brieuc Villete.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "4eaa6510763cfee5",
             "type": "leaf",
             "state": {
@@ -233,14 +221,98 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Raphael Certain.md",
+                "file": "TO-DOS-READS/Design.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ea45b100ce3be8db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HEC.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "048d08694b92b728",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bills.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "33c284852740573e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ideardas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0b1ceab3216fc82d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TO-DOS-READS/Software, Engineering and Programming.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b5d7a6eba8d98446",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vivir en france.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b259ecf915c0bf52",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TO-DOS-READS/Rust.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fba5a985b08ba436",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vivir en france.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 19
+        "currentTab": 25
       }
     ],
     "direction": "vertical"
@@ -306,7 +378,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Raphael Certain.md",
+                "file": "Vivir en france.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -323,7 +395,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Raphael Certain.md",
+                "file": "Vivir en france.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -346,7 +418,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Raphael Certain.md"
+                "file": "Vivir en france.md"
               }
             }
           },
@@ -380,34 +452,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b95c790755897ea2",
+  "active": "fba5a985b08ba436",
   "lastOpenFiles": [
-    "ML Course.md",
-    "Raphael Certain.md",
-    "Brieuc Villete.md",
-    "TO-DOS-READS/Software, Engineering and Programming.md",
-    "TO-DOS-READS/Electrical Engineering and Robotics.md",
-    "TO-DOS-READS/Cool Tools.md",
-    "TO-DOS-READS/Auditoooor.md",
-    "TO-DOS-READS/Design.md",
-    "TO-DOS-READS/Health.md",
-    "TO-DOS-READS/General Knowledge.md",
-    "TO-DOS-READS/Web3.md",
-    "TO-DOS-READS/Entrepreneurship & Startups.md",
-    "TO-DOS-READS/Aerospace Engineering.md",
-    "TO-DOS-READS/Science & Technology.md",
     "Superchileanapp.md",
-    "SMAD.pdf.md",
-    "Bills.md",
+    "Stuff to build in crypto.md",
+    "Solana Renaissance hackathon.md",
+    "Solana.md",
     "Onchain SVG.md",
-    "HEC.md",
+    "ML Course.md",
+    "ideardas.md",
+    "Bills.md",
+    "Cryptomaxing with yield.md",
+    "Brieuc Villete.md",
     "Design I should try to build.md",
-    "TO-DOS-READS/Rust.md",
-    "TO-DOS-READS/EVM.md",
+    "Furnace.md",
+    "HEC.md",
+    "Vivir en france.md",
+    "Violette Beaume.md",
     "TO-DOS-READS/DeFi.md",
-    "TO-DOS-READS/Cloud & Systems.md",
+    "TO-DOS-READS/Web3.md",
+    "TO-DOS-READS/Design.md",
+    "TO-DOS-READS/Auditoooor.md",
     "TO-DOS-READS/Zero Knowledge.md",
-    "Build a CryptoZombies alternative with Foundry.md",
+    "TO-DOS-READS/Solidity Patterns & Architectures.md",
+    "TO-DOS-READS/Software, Engineering and Programming.md",
+    "TO-DOS-READS/Cloud & Systems.md",
+    "Devs do Something/Connext interview.md",
+    "Devs do Something/Austin Griffith.md",
+    "Entrepreneurship in Web3/Entrepreneurship 101.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Devs do Something",

@@ -10,6 +10,16 @@
 - https://cronometer.com/
 
 
+### Regarding supplements
+- Levelsio daily intake
+	- omega 3 fish oil 
+	- creatine 
+	- magnesium 
+	- zinc 
+	- vitamin D 
+	- vitamin B12 
+	Adjusted based on blood testing levels
+
 ### Papers
 - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6566799/
 - 

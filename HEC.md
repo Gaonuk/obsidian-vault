@@ -37,4 +37,4 @@ HEC with X make up to 80% of all the Unicorns in France? i didn't get that
 
 IF YOU GO TO BERKELEY/SAN FRANCISCO YOU CAN STAY THERE AND BUILD YOUR STARTUP OVER THERE FOR THE REST OF THE PROGRAM
 
-"HEC has a very wide network in all the countries, access to a lot of platforms and opportunities as an HCE student"
+"HEC has a very wide network in all the countries, access to a lot of platforms and opportunities as an HEC student"

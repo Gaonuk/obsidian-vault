@@ -18,6 +18,8 @@
 - [ ] [Solodit](https://solodit.xyz/)
 - [ ] [Gateway Free Web3 Security](https://guardianaudits.notion.site/guardianaudits/Gateway-Free-Web3-Security-Course-574f4d819c144d7895cda6d61ba26503)
 - [ ] https://ctf-maker-monorepo.vercel.app/
+- [ ] [Onlypwner](https://onlypwner.xyz/) 
+- [ ] [useWeb3 challenge list](https://www.useweb3.xyz/code-challenges) 
 
 ---
 
@@ -46,6 +48,8 @@
 - [ ] [Tincho's intro to security in solidity](https://www.youtube.com/live/v9ANh5wmj_A?feature=share&t=17286)
 - [ ] [OZ 100% Coverage 0% Security](https://youtube.com/watch?v=vCfeff4nu-g)
 - [ ] [Deployment Validation Standard]([https://youtube.com/watch?v=vCfeff4nu-g](https://t.co/7rtiqsUvWC))
+- [ ] [Mastering Fuzzing](https://www.youtube.com/watch?v=83q14K-WNKM)
+- [ ] 
 
 ---
 ### Foundry commands

@@ -102,6 +102,7 @@
 - [ ] [Re-Architecting Trust](https://www.amazon.com/Re-Architecting-Trust-History-Markets-Platforms/dp/1732027331?crid=JU65X57KMY58&keywords=re+trust&qid=1686257468&s=books&sprefix=re+trus,stripbooks-intl-ship,293&sr=1-1)
 - [ ] The Infinite Machine by Cami Russo
 - [ ] Proof of Stake by Vitalik Buterin
+- [ ] [AMMS](https://www.amazon.com/Automated-Market-Makers-Decentralized-Cryptocurrency/dp/1484286154) 
 
 ### Videos
 ---

@@ -7,3 +7,6 @@
 - [ElysiaJS Bun Framework](https://elysiajs.com/) #backend #bun #typescript
 - [Skiff apps](https://skiff.com/) #privacy #workspace 
 - [ToDesktop](https://www.todesktop.com/)
+- [Outline](https://www.getoutline.com/)
+- [Noor](https://noor.to/)
+- 

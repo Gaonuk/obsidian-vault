@@ -22,6 +22,7 @@
 - [Catalyst](https://catalyst.tailwindui.com/)
 - [Building Awesome Charts with nivo](https://twitter.com/brotzky_/status/1696227743766323710)
 - https://animations.dev/
+- https://antimetal.com/
 ---
 ##### Great Portfolios
 - https://rauno.me/craft/nextjs

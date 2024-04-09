@@ -43,7 +43,7 @@
 ### Videos
 - [ ] [Making Software 'Correct by Construction'](https://www.youtube.com/watch?v=03mUs5NlT6)
 - [ ] [AWS re:Invent 2014](https://t.co/gtU54VjuMM)
-- [ ] 
+- [ ] [AWS re:Invent 2023](https://www.youtube.com/watch?v=pJG6nmR7XxI)
 ---
 ### Tutorials
 - [ ] [Provision AWS with Terraform and Jenkins](https://t.co/TXd5ZLgMv0)

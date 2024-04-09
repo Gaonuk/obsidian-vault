@@ -18,3 +18,4 @@
 
 [Optimism](https://stephango.com/optimism)
 https://www.writingruxandrabio.com/p/ideas-matter-how-i-stopped-being
+https://medium.com/pronouncedkyle/agnostic-ish-my-search-for-faith-in-a-scientific-world-fccdf5c92021

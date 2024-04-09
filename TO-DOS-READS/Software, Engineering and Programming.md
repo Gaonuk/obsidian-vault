@@ -62,6 +62,7 @@
 - [ ] [Build your own ChatGPT](https://twitter.com/kiwicopple/status/1677256180861743104?s=20)
 - [ ] [Nand2Tetris](https://www.nand2tetris.org/course)
 - [ ] [tRPC + NextJS 13](https://www.youtube.com/watch?v=qCLV0Iaq9zU)
+- [ ] https://github.com/electron-react-boilerplate/electron-react-boilerplate
 
 ## Cryptography
 ---

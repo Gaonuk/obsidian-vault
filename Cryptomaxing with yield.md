@@ -1,0 +1,15 @@
+- Notional finance in Arbitrum for incentives of Note and Arb tokens
+- buy yPrisma in Curve, stake in yearn for 150% apr
+- pool Prisma/yPrisma in curve, stake lptokens for 150% apr
+- buy yCRV and stake in yearn for 30% apr
+- curve PRISMA-mkUSD pool staked at 500% apr
+- Try new yearn v3 vaults in poly for 35% in stables
+- 11% in yearn v3 WETH vault
+- Solidly USDT-USDC pool for 60% apr no IL because big tokens
+- https://vertexprotocol.com/
+- https://app.apollo.farm/vault/neutron-1-sttia-tia-vt-apollo-unlocked-lp-vault
+- https://www.superstakesol.com/
+- https://airdrops.one/
+- https://www.frame.xyz/quests
+- https://app.hyperliquid.xyz/leaderboard
+- https://thedefiant.io/airdrops
