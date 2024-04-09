@@ -5,6 +5,11 @@
 - [ ] [Noir by example](https://t.co/z4u6S7zDQz)
 - [ ] [mini ctf with zk and noir](https://t.co/qahTE4OjR7)
 
+
+### Ideas from private scaling explorations
+- [Acceleration Program](https://github.com/privacy-scaling-explorations/acceleration-program/issues?q=is%3Aopen+is%3Aissue+-label%3A%22Application+Proposal%22+-label%3A%22WIP%22+)
+- [Ideas for projects](https://github.com/Divide-By-0/ideas-for-projects-people-would-use)
+
 ---
 
 #### Videos

@@ -32,6 +32,7 @@
 - [ ] [zkSNARKs with Succinct](https://www.succinct.xyz/)
 - [ ] [Smart Contract Engineer Courses](https://www.smartcontract.engineer/courseshttps://www.smartcontract.engineer/courses)
 - [ ] [Building with Forta Bots](https://docs.forta.network/en/latest/wizard/)
+- [ ] [Intro to Ethereum por marto](https://intro-ethereum.marto.lol/23aac7d62c3f442c88e97094f0ea34a2) 
 
 ----
 

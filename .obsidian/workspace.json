@@ -4,315 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "d457ab5fd554b47f",
+        "id": "f1241442f248eaf5",
         "type": "tabs",
         "children": [
           {
-            "id": "6fd1d5ccbfdcb8a7",
+            "id": "ddd5673036e494da",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TO-DOS-READS/Design.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "13f7e42f77792921",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Superchileanapp.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "03e9c04736326482",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Design I should try to build.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c579b07598124716",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Devs do Something/Austin Griffith.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c18e83395c5567ca",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "038c009a1fa9bfbb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TO-DOS-READS/Solidity Patterns & Architectures.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "519511293801f934",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TO-DOS-READS/Software, Engineering and Programming.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5e7f81d05511f51b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TO-DOS-READS/Software, Engineering and Programming.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e4442453d3840143",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TO-DOS-READS/DeFi.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "585024b2d53d8132",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TO-DOS-READS/Aerospace Engineering.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "54684cc5706086f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TO-DOS-READS/General Knowledge.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cfd887f92d23df5c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TO-DOS-READS/Design.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "118571ce87a26eda",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Onchain SVG.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3255b40efbf78911",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "0cb8d425b9db92cb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bills.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5ae8277f8ce80912",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Superchileanapp.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "618dfab48855340c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TO-DOS-READS/Software, Engineering and Programming.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4eaa6510763cfee5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TO-DOS-READS/Design.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b95c790755897ea2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TO-DOS-READS/Design.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ea45b100ce3be8db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HEC.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "048d08694b92b728",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bills.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "33c284852740573e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ideardas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0b1ceab3216fc82d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TO-DOS-READS/Software, Engineering and Programming.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b5d7a6eba8d98446",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vivir en france.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b259ecf915c0bf52",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TO-DOS-READS/Rust.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fba5a985b08ba436",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vivir en france.md",
+                "file": "Stuff to build in crypto.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 25
+        ]
       }
     ],
     "direction": "vertical"
@@ -378,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vivir en france.md",
+                "file": "Stuff to build in crypto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -395,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vivir en france.md",
+                "file": "Stuff to build in crypto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -418,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vivir en france.md"
+                "file": "Stuff to build in crypto.md"
               }
             }
           },
@@ -452,34 +159,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fba5a985b08ba436",
+  "active": "ddd5673036e494da",
   "lastOpenFiles": [
+    "TO-DOS-READS/Design.md",
+    "TO-DOS-READS/Software, Engineering and Programming.md",
+    "TO-DOS-READS/Zero Knowledge.md",
+    "TO-DOS-READS/EVM.md",
+    "TO-DOS-READS/Auditoooor.md",
+    "Vivir en france.md",
     "Superchileanapp.md",
+    "Design I should try to build.md",
+    "Devs do Something/Austin Griffith.md",
+    "TO-DOS-READS/Solidity Patterns & Architectures.md",
+    "TO-DOS-READS/DeFi.md",
+    "TO-DOS-READS/Aerospace Engineering.md",
+    "TO-DOS-READS/General Knowledge.md",
+    "Onchain SVG.md",
+    "Bills.md",
+    "HEC.md",
+    "ideardas.md",
+    "TO-DOS-READS/Rust.md",
+    "TO-DOS-READS/Autonomous Worlds.md",
+    "TO-DOS-READS/Cloud & Systems.md",
+    "TO-DOS-READS/Cool Tools.md",
     "Stuff to build in crypto.md",
     "Solana Renaissance hackathon.md",
     "Solana.md",
-    "Onchain SVG.md",
     "ML Course.md",
-    "ideardas.md",
-    "Bills.md",
     "Cryptomaxing with yield.md",
-    "Brieuc Villete.md",
-    "Design I should try to build.md",
-    "Furnace.md",
-    "HEC.md",
-    "Vivir en france.md",
-    "Violette Beaume.md",
-    "TO-DOS-READS/DeFi.md",
-    "TO-DOS-READS/Web3.md",
-    "TO-DOS-READS/Design.md",
-    "TO-DOS-READS/Auditoooor.md",
-    "TO-DOS-READS/Zero Knowledge.md",
-    "TO-DOS-READS/Solidity Patterns & Architectures.md",
-    "TO-DOS-READS/Software, Engineering and Programming.md",
-    "TO-DOS-READS/Cloud & Systems.md",
-    "Devs do Something/Connext interview.md",
-    "Devs do Something/Austin Griffith.md",
-    "Entrepreneurship in Web3/Entrepreneurship 101.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Devs do Something",

@@ -42,6 +42,8 @@
 - [ ] [matta.’s Ethereum security road-map](https://mattaereal.notion.site/matta-s-Ethereum-security-road-map-cf7d7f2e48ea4aa0a8f4a2eff86342a7)
 - [ ] [Solidity Interview Questions](https://www.rareskills.io/post/solidity-interview-questions)
 - [ ] https://www.ctfnote.com/
+- [ ] [Intro a Seguridad por Notonlyowner](https://www.notonlyowner.com/learn/intro-seguridad-hacking-ethereum) 
+- [ ] [Awesome Oracle Manipulation](https://github.com/0xcacti/awesome-oracle-manipulation)
 
 ---
 ### Videos

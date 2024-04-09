@@ -96,6 +96,7 @@
 - [ ] [The Little Book of Deep Learning](https://fleuret.org/public/lbdl.pdf)
 - [ ] [AI is good for you](https://www.amazon.com/-/es/Eric-Jang-ebook/dp/B0C1WRN9VR/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=)
 - [ ] https://blog.research.google/2024/01/amie-research-ai-system-for-diagnostic_12.html
+- [ ] [Morphic](https://www.morphic.sh/)
 
 
 ## Hardware
