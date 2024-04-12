@@ -48,6 +48,7 @@
 - [ ] [Performance Engineering of Software Systems](https://www.youtube.com/playlist?list=PLUl4u3cNGP63VIBQVWguXxZZi0566y7Wf)
 - [ ] [Distributed Systems](https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB)
 - [ ] [Distributed Computer Systems Waterloo](https://www.youtube.com/playlist?list=PLawkBQ15NDEkDJ5IyLIJUTZ1rRM9YQq6N)
+- [ ] [Engineering a Compiler Super Book](https://shop.elsevier.com/books/engineering-a-compiler/cooper/978-0-12-815412-0) 
 
 ## Tutorials
 ---
