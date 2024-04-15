@@ -9,4 +9,5 @@
 - [ToDesktop](https://www.todesktop.com/)
 - [Outline](https://www.getoutline.com/)
 - [Noor](https://noor.to/)
-- 
+- [Namechecker](https://namechecker.vercel.app/) 
+- [Shikiji](https://shikiji.netlify.app/) #syntax-highlighter 

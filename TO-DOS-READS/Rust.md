@@ -5,7 +5,10 @@
 - [ ] https://medium.com/yearofzk/rust-guide-sum-check-protocol-18ceb8affdb2
 - [ ] https://github.com/Callum-A/cosmwasm-zero-to-hero
 - [ ] [Rust resources](https://twitter.com/DCbuild3r/status/1668546513474138112?s=20)
-
+- [ ] [Zero to One to Hacking](https://securrtech.medium.com/complete-guide-to-rust-zero-to-one-to-hacking-e1f4380ae95c)
+- [Advances Rust](https://x.com/Securrtech/status/1707986716660060601)
+- [Cow Protocol Services](https://github.com/cowprotocol/services/)
+- [Talent Plan for Rust](https://github.com/pingcap/talent-plan/tree/master)
 ## Tutorials
 ---
 

@@ -49,6 +49,8 @@
 - [ ] [Distributed Systems](https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB)
 - [ ] [Distributed Computer Systems Waterloo](https://www.youtube.com/playlist?list=PLawkBQ15NDEkDJ5IyLIJUTZ1rRM9YQq6N)
 - [ ] [Engineering a Compiler Super Book](https://shop.elsevier.com/books/engineering-a-compiler/cooper/978-0-12-815412-0) 
+- [ ] [Migrated from Vercel to Fly.io](https://www.openstatus.dev/blog/migration-backend-from-vercel-to-fly) 
+- [ ] [Low Latency Trading Systems](https://x.com/vaibhaw_vipul/status/1713813366651621409)
 
 ## Tutorials
 ---
@@ -106,10 +108,11 @@
 - [ ] [Simulate a CPU in code](https://djharper.dev/post/2019/05/21/i-dont-know-how-cpus-work-so-i-simulated-one-in-code/)
 - [ ] [Computer System Architecture](https://ocw.mit.edu/courses/6-823-computer-system-architecture-fall-2005/pages/lecture-notes/)
 - [ ] [Computer System Engineering](https://ocw.mit.edu/courses/6-033-computer-system-engineering-spring-2018/pages/resource-index/)
-- [ ] 
+- [ ] [GPU Alpha](https://github.com/arpitingle/gpu-alpha)
 
 ## Command Line Interface
 ---
 - [ ] [ink: React for CLI apps](https://github.com/vadimdemedes/ink)
 - [ ] [CLI Guidelines](https://clig.dev/)
 - [ ] [asdf](https://asdf-vm.com/)
+- [ ] [Macrocosm CLI](https://github.com/macrocosmcorp/macrocosm-terminal)

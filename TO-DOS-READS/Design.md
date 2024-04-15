@@ -23,6 +23,9 @@
 - [Building Awesome Charts with nivo](https://twitter.com/brotzky_/status/1696227743766323710)
 - https://animations.dev/
 - https://antimetal.com/
+- [Interactive 3D desktop with Blender and react-three-riber](https://x.com/oyaaaaaaaasumi/status/1749498053692686680) 
+- [Call To Inspiration](http://calltoinspiration.com/)
+- [Recent Design](https://recent.design/)
 ---
 ##### Great Portfolios
 - https://rauno.me/craft/nextjs
@@ -30,3 +33,10 @@
 - https://redd.one/
 - https://www.ansubkhan.com/
 - https://www.storm-labs.xyz/
+- https://www.yasmins.site/
+- https://juw.ee/
+- https://hitorilabs.com/
+
+
+#### Code Examples
+- https://codepen.io/jh3y/pen/BabOBzv

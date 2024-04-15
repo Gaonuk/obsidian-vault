@@ -1,4 +1,7 @@
 - [Dojo Engine](https://www.dojoengine.org/en/)
 - [CartridgeGG](https://cartridge.gg/#build)
 - [MUD](https://mud.dev/)
-- 
+- https://world.mirror.xyz/cw8azSlKnW9TzurIUCPak2EZwqcYXHAeFXQ3aM9MBCA
+- [Season One: Digital physics](https://world.mirror.xyz/X5FPDwUjCXhQVRqaGiyH-MXyQG5SU4D-pt7c6aW0un0)
+- https://frontier.tech/infinite-games
+- https://medium.com/@david.amor/sustainable-economies-for-on-chain-games-f42d094f47f5

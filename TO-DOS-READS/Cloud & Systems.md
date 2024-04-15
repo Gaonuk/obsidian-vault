@@ -31,6 +31,7 @@
 - [ ] [Building a serverless app with NestJS and Serverless Framework](https://t.co/ZtcWizNZW3)
 - [ ] [Cloud and Systems courses](https://courses.arpitbhayani.me/)
 - [ ] [Netflix Open Connect](https://openconnect.netflix.com/en/)
+- [ ] [Railways logs](https://x.com/GregorySchier/status/1707852725717971001)
 ---
 #### Resources
 - [ ] [Systems design primer](https://github.com/donnemartin/system-design-primer#real-world-architectures)
@@ -39,11 +40,14 @@
 - [ ] [Systems Performance Books](https://twitter.com/gakonst/status/1670481033056354305)
 - [ ] [Books about big and performant distributed systems](https://twitter.com/fede_intern/status/1672672038123720708)
 - [ ] [Systems Architect](https://github.com/sergeyleschev/system-design/blob/main/sergeyleschev-system-architect-roadmap.md#performance-vs-scalability)
+- [ ] [open source training courses about distributed database and distributed systems](https://github.com/pingcap/talent-plan/tree/master)
 ---
 ### Videos
 - [ ] [Making Software 'Correct by Construction'](https://www.youtube.com/watch?v=03mUs5NlT6)
 - [ ] [AWS re:Invent 2014](https://t.co/gtU54VjuMM)
 - [ ] [AWS re:Invent 2023](https://www.youtube.com/watch?v=pJG6nmR7XxI)
+- [ ] [Favorite YT to learn distributed systems](https://x.com/vaibhaw_vipul/status/1730163114748907683)
+- [ ] [Fede's favorite distributed systems](https://x.com/fede_intern/status/1744435935012348246)
 ---
 ### Tutorials
 - [ ] [Provision AWS with Terraform and Jenkins](https://t.co/TXd5ZLgMv0)

@@ -20,6 +20,7 @@
 - [ ] https://ctf-maker-monorepo.vercel.app/
 - [ ] [Onlypwner](https://onlypwner.xyz/) 
 - [ ] [useWeb3 challenge list](https://www.useweb3.xyz/code-challenges) 
+- [ ] https://decentlysafedefi.xyz/me/
 
 ---
 
@@ -44,6 +45,8 @@
 - [ ] https://www.ctfnote.com/
 - [ ] [Intro a Seguridad por Notonlyowner](https://www.notonlyowner.com/learn/intro-seguridad-hacking-ethereum) 
 - [ ] [Awesome Oracle Manipulation](https://github.com/0xcacti/awesome-oracle-manipulation)
+- [ ] [A call, a precompile and a compiler walk into a bar](https://blog.theredguild.org/a-call-a-precompile-and-a-compiler-walk-into-a-bar/)
+- [ ] 
 
 ---
 ### Videos

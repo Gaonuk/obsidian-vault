@@ -67,4 +67,5 @@
 - [ ] [Frontier Research](https://www.youtube.com/channel/UC_V4HfBeXEi98kJQpMgUPoQ)
 - [ ] [Visa Account Abstraction](https://usa.visa.com/solutions/crypto/rethink-digital-transactions-with-account-abstraction.html)
 - [ ] [Make Ethereum Cypherpunk Again](https://vitalik.eth.limo/general/2023/12/28/cypherpunk.html)
-- [ ] 
+- [ ] [Leaderless Auctions](https://www.paradigm.xyz/2024/02/leaderless-auctions)
+- [ ] [A list of open problems in crypto](https://crypto.mirror.xyz/hl284jc3A2MI_QeTE39nRsTPihOigNuLKIWjiU2pFzw)

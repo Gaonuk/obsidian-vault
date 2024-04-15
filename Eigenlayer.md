@@ -1,0 +1,6 @@
+- [Learn About EigenLayer](https://forum.eigenlayer.xyz/t/learn-about-eigenlayer/3418)
+- [What is Eigen Layer? In simple terms](https://forum.eigenlayer.xyz/t/what-is-eigen-layer-in-simple-terms/169)
+- [EigenLayer Hub](https://web3citizen.notion.site/EigenLayer-Hub-0d87bfebd4fe47739a4d0ef8a2e7d45f)
+- [EigenLayer Youtube Channel](https://www.youtube.com/@EigenLayer)
+- [EigenLayer Whitepaper](https://docs.eigenlayer.xyz/assets/files/EigenLayer_WhitePaper-88c47923ca0319870c611decd6e562ad.pdf) 
+- https://www.blog.eigenlayer.xyz/accelerating-ethereum-together-a16z-crypto-x-eigen-labs/

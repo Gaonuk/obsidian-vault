@@ -21,6 +21,8 @@
 - [ourZora Contract overview](https://twitter.com/onnnnnnnion/status/1672231606436896768?s=20)
 - https://www.rareskills.io/post/solidity-style-guide
 - [Generate Docusaurus site with comments in Solidity](https://gist.github.com/PaulRBerg/32c195862d206b560f5eb620824b54a0)
+- [BTT Tutorial](https://x.com/PaulRBerg/status/1707436322183405965)
+- [Solidity Interview Questions](https://www.rareskills.io/post/solidity-interview-questions)
 
 
 

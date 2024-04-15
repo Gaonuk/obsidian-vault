@@ -10,6 +10,7 @@
 - [ ] [The EVM handbook](https://t.co/MPDus9m96a)
 - [ ] [Solidity layout and access of storage state variables simply explained](https://t.co/8t7Ej5jLSc)
 - [ ] [LearnEVM](https://learnevm.com/)
+- [ ] [EVM-from-scratch book](https://evm-from-scratch.xyz/content/01_intro.html)
 
 ### CTFs
 ---

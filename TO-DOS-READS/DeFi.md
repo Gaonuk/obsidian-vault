@@ -33,6 +33,7 @@
 - [ ] [Smart Contract Engineer Courses](https://www.smartcontract.engineer/courseshttps://www.smartcontract.engineer/courses)
 - [ ] [Building with Forta Bots](https://docs.forta.network/en/latest/wizard/)
 - [ ] [Intro to Ethereum por marto](https://intro-ethereum.marto.lol/23aac7d62c3f442c88e97094f0ea34a2) 
+- [ ] [How to test a wagmi app without spending money](https://x.com/bantg/status/1771843745526210710) 
 
 ----
 
@@ -94,6 +95,10 @@
 - [ ] [Web3 Study List](https://sergiomazariego.notion.site/Web-3-Study-List-c8d85ae6300344c99013508fff461401?pvs=4)
 - [ ] [Account Abstraction](https://composable-security.com/blog/account-abstraction-a-tale-on-the-evolution-of-wallets/)
 - [ ] [Jeiwan Posts](https://jeiwan.net/)
+- [ ] [DeFi Lending Concepts Part 1: Lending and Borrowing](https://medium.com/smlxl/defi-lending-concepts-part-1-lending-and-borrowing-f646d6a08dd7)
+- [ ] [DeFi Lending Concepts Part 2: Liquidations]((https://medium.com/smlxl/defi-lending-concepts-part-2-liquidations-7f0f0ffec96c)
+- [ ] [DeFi Lending Concepts Part 3: Rewards](https://blog.smlxl.io/defi-lending-concepts-part-3-rewards-2fc87e78e9c4)
+- [ ] [Learn Eigenlayer](https://naderdabit.notion.site/Learn-EigenLayer-fa3087baae6d4f5fa04a98e7255c4eaf)
 
 ----
 
@@ -115,7 +120,8 @@
 - [ ] [Ethereum Explained: Research, Spec, Clients, & Nodes](https://t.co/W7xujkArxX)
 - [ ] [Collection of youtube channels about solitidy](https://twitter.com/apoorvlathey/status/1672759800323780609)
 - [ ] [Solidity Engineering Group](https://www.youtube.com/@EthereumEngineeringGroup)
-
+- [ ] [Solidity 0.8](https://www.youtube.com/playlist?list=PLO5VPQH6OWdVQwpQfw9rZ67O6Pjfo6q-p)
+- [ ] [Hack Solidity](https://www.youtube.com/watch?v=4Mm3BCyHtDY&list=PLO5VPQH6OWdWsCgXJT9UuzgbC8SPvTRi5) 
 ### Tools
 ---
 - [ ] [Frame: Modern Web3 for Desktop](https://frame.sh/)
@@ -131,5 +137,6 @@
 - [ ] [CTFs or whatever](https://www.theblockchainerhub.xyz/ctfs/Ctfs)
 - [ ] [Web3 Data Basecamp](https://basement.dev/?ref=producthunt)
 - [ ] [Smol dapps](https://smold.app/safe)
+- [ ] [Ponder](https://ponder.sh/)
 
 
