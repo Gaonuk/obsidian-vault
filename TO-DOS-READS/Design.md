@@ -26,6 +26,7 @@
 - [Interactive 3D desktop with Blender and react-three-riber](https://x.com/oyaaaaaaaasumi/status/1749498053692686680) 
 - [Call To Inspiration](http://calltoinspiration.com/)
 - [Recent Design](https://recent.design/)
+- https://www.krazam.tv/
 ---
 ##### Great Portfolios
 - https://rauno.me/craft/nextjs
@@ -37,7 +38,7 @@
 - https://juw.ee/
 - https://hitorilabs.com/
 - https://www.vincentweisser.com/
-
+- https://sharif.io/
 
 #### Code Examples
 - https://codepen.io/jh3y/pen/BabOBzv

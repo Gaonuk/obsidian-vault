@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TO-DOS-READS/Science & Technology.md",
+                "file": "TO-DOS-READS/Autonomous Worlds.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TO-DOS-READS/Science & Technology.md",
+                "file": "TO-DOS-READS/Autonomous Worlds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TO-DOS-READS/Science & Technology.md",
+                "file": "TO-DOS-READS/Autonomous Worlds.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TO-DOS-READS/Science & Technology.md"
+                "file": "TO-DOS-READS/Autonomous Worlds.md"
               }
             }
           },
@@ -201,18 +201,19 @@
     "TO-DOS-READS/DeFi.md",
     "TO-DOS-READS/Web3.md",
     "TO-DOS-READS/Design.md",
+    "TO-DOS-READS/Zero Knowledge.md",
+    "Design I should try to build.md",
+    "TO-DOS-READS/Science & Technology.md",
     "TO-DOS-READS/Software, Engineering and Programming.md",
     "TO-DOS-READS/Auditoooor.md",
     "Eigenlayer.md",
     "TO-DOS-READS/Autonomous Worlds.md",
     "TO-DOS-READS/Entrepreneurship & Startups.md",
-    "TO-DOS-READS/Science & Technology.md",
     "TO-DOS-READS/Cool Tools.md",
     "TO-DOS-READS/Solidity Patterns & Architectures.md",
     "TO-DOS-READS/Cloud & Systems.md",
     "Books.md",
     "TO-DOS-READS/EVM.md",
-    "TO-DOS-READS/Zero Knowledge.md",
     "TO-DOS-READS/Rust.md",
     "TO-DOS-READS/General Knowledge.md",
     "TO-DOS-READS/Health.md",
@@ -221,7 +222,6 @@
     "Speed-running the chip stack.md",
     "Entrepreneurship in Web3/Entrepreneurship 101.md",
     "Superchileanapp.md",
-    "Design I should try to build.md",
     "Devs do Something/Austin Griffith.md",
     "TO-DOS-READS/Aerospace Engineering.md",
     "Untitled.canvas",

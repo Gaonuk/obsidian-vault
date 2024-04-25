@@ -139,5 +139,6 @@
 - [ ] [Web3 Data Basecamp](https://basement.dev/?ref=producthunt)
 - [ ] [Smol dapps](https://smold.app/safe)
 - [ ] [Ponder](https://ponder.sh/)
+- [ ] [Newmetric](https://www.newmetric.xyz/)
 
 

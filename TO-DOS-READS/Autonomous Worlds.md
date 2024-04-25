@@ -7,3 +7,4 @@
 - https://medium.com/@david.amor/sustainable-economies-for-on-chain-games-f42d094f47f5
 - https://playmint.com/game-design-ideas-from-web3
 - https://medium.com/@david.amor/downstreams-builder-s-guide-40e5274699bf
+- https://github.com/playmint/ds/tree/main/tutorial#readme
