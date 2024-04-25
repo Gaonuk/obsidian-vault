@@ -34,3 +34,4 @@
 
 
 https://www.inevitabilityresearch.com/
+https://maxdesalle.com/in-defense-of-growth-and-capitalism/

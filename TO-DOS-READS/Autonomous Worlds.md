@@ -5,3 +5,5 @@
 - [Season One: Digital physics](https://world.mirror.xyz/X5FPDwUjCXhQVRqaGiyH-MXyQG5SU4D-pt7c6aW0un0)
 - https://frontier.tech/infinite-games
 - https://medium.com/@david.amor/sustainable-economies-for-on-chain-games-f42d094f47f5
+- https://playmint.com/game-design-ideas-from-web3
+- https://medium.com/@david.amor/downstreams-builder-s-guide-40e5274699bf

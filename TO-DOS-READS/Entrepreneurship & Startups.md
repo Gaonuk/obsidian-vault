@@ -12,3 +12,7 @@
 - [ ] [MIT: New Enterprises](https://ocw.mit.edu/courses/15-390-new-enterprises-spring-2013/pages/lecture-notes/)
 - [ ] [Sahil: Reflecting on My Failure to Build a Billion-Dollar Co](https://marker.medium.com/reflecting-on-my-failure-to-build-a-billion-dollar-company-b0c31d7db0e7)
 - [ ] [Joining a startup: How to think about equity compensation](https://www.cristinajcordova.com/blog/startup-equity-comp)
+- [ ] [High Output Management Book](https://www.amazon.com/High-Output-Management-Andrew-Grove/dp/0679762884)
+- [ ] [Puzzle Engineering](https://www.amazon.com/Elegant-Puzzle-Systems-Engineering-Management/dp/1732265186) 
+- [ ] [Boz](https://boz.com/)
+- [ ] [The Techno-Industrial Manifesto](https://www.notboring.co/p/the-techno-industrial-revolution)

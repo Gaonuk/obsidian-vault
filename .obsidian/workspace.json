@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TO-DOS-READS/Autonomous Worlds.md",
+                "file": "TO-DOS-READS/Science & Technology.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "manager",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TO-DOS-READS/Autonomous Worlds.md",
+                "file": "TO-DOS-READS/Science & Technology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TO-DOS-READS/Autonomous Worlds.md",
+                "file": "TO-DOS-READS/Science & Technology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TO-DOS-READS/Autonomous Worlds.md"
+                "file": "TO-DOS-READS/Science & Technology.md"
               }
             }
           },
@@ -198,18 +198,18 @@
   },
   "active": "f9bfea63e82c0d3c",
   "lastOpenFiles": [
-    "Eigenlayer.md",
-    "TO-DOS-READS/Design.md",
+    "TO-DOS-READS/DeFi.md",
     "TO-DOS-READS/Web3.md",
+    "TO-DOS-READS/Design.md",
     "TO-DOS-READS/Software, Engineering and Programming.md",
+    "TO-DOS-READS/Auditoooor.md",
+    "Eigenlayer.md",
+    "TO-DOS-READS/Autonomous Worlds.md",
+    "TO-DOS-READS/Entrepreneurship & Startups.md",
     "TO-DOS-READS/Science & Technology.md",
     "TO-DOS-READS/Cool Tools.md",
-    "TO-DOS-READS/Entrepreneurship & Startups.md",
     "TO-DOS-READS/Solidity Patterns & Architectures.md",
     "TO-DOS-READS/Cloud & Systems.md",
-    "TO-DOS-READS/Autonomous Worlds.md",
-    "TO-DOS-READS/Auditoooor.md",
-    "TO-DOS-READS/DeFi.md",
     "Books.md",
     "TO-DOS-READS/EVM.md",
     "TO-DOS-READS/Zero Knowledge.md",

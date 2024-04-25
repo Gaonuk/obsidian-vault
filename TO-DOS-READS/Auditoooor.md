@@ -46,7 +46,7 @@
 - [ ] [Intro a Seguridad por Notonlyowner](https://www.notonlyowner.com/learn/intro-seguridad-hacking-ethereum) 
 - [ ] [Awesome Oracle Manipulation](https://github.com/0xcacti/awesome-oracle-manipulation)
 - [ ] [A call, a precompile and a compiler walk into a bar](https://blog.theredguild.org/a-call-a-precompile-and-a-compiler-walk-into-a-bar/)
-- [ ] 
+- [ ]https://www.dailywarden.com/
 
 ---
 ### Videos

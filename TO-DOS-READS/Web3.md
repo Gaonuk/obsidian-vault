@@ -69,3 +69,4 @@
 - [ ] [Make Ethereum Cypherpunk Again](https://vitalik.eth.limo/general/2023/12/28/cypherpunk.html)
 - [ ] [Leaderless Auctions](https://www.paradigm.xyz/2024/02/leaderless-auctions)
 - [ ] [A list of open problems in crypto](https://crypto.mirror.xyz/hl284jc3A2MI_QeTE39nRsTPihOigNuLKIWjiU2pFzw)
+- [ ] [Ritualnet AI x Crypto](https://ritual.net/)

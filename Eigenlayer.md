@@ -3,4 +3,11 @@
 - [EigenLayer Hub](https://web3citizen.notion.site/EigenLayer-Hub-0d87bfebd4fe47739a4d0ef8a2e7d45f)
 - [EigenLayer Youtube Channel](https://www.youtube.com/@EigenLayer)
 - [EigenLayer Whitepaper](https://docs.eigenlayer.xyz/assets/files/EigenLayer_WhitePaper-88c47923ca0319870c611decd6e562ad.pdf) 
-- https://www.blog.eigenlayer.xyz/accelerating-ethereum-together-a16z-crypto-x-eigen-labs/
+- [Accelerating Ethereum a16z crypto x EigenLabs](https://www.blog.eigenlayer.xyz/accelerating-ethereum-together-a16z-crypto-x-eigen-labs/)
+- [Versatus + Eigenlayer](https://twitter.com/dabit3/status/1780191257261658481)
+- [When any asset can be staked, what asset *will* be staked?](https://twitter.com/sreeramkannan/status/1779908480947957972)
+- [Accelerate Rollup Deployment with EigenDA RaaS](https://www.blog.eigenlayer.xyz/accelerate-rollup-deployment-with-eigendas-raas-marketplace/)
+- [AVS Developer Guide](https://docs.eigenlayer.xyz/eigenlayer/avs-guides/avs-developer-guide)
+- [Wishlist for cloud infra on eigenlayer as AVS](https://x.com/weswfloyd/status/1772259056947781807
+- [Ethos: Powering the Convergence Era of Blockchains](https://www.blog.eigenlayer.xyz/author/eigenlayer-research/) 
+- [Nader Dabit Eigenlayer](https://naderdabit.notion.site/Learn-EigenLayer-fa3087baae6d4f5fa04a98e7255c4eaf) 

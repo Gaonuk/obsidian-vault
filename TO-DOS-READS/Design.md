@@ -36,7 +36,20 @@
 - https://www.yasmins.site/
 - https://juw.ee/
 - https://hitorilabs.com/
+- https://www.vincentweisser.com/
 
 
 #### Code Examples
 - https://codepen.io/jh3y/pen/BabOBzv
+
+
+### Resources
+- List of insights from Noomo Agency
+	- https://noomoagency.com/insights/easy-way-to-implement-3d-in-web
+	- https://noomoagency.com/insights/startup-brand-identity-agency
+	- https://noomoagency.com/insights/best-storytelling-websites
+	- https://noomoagency.com/insights/essential-branding-strategies-for-web3
+	- https://noomoagency.com/insights/top-principles-how-to-design-lottie-animations
+	- https://noomoagency.com/insights/how-to-make-the-most-of-your-corporate-website-design
+	- https://noomoagency.com/insights/scalable-typography-for-multiple-products-in-the-ecosystem.
+	- https://noomoagency.com/insights/crafting-your-unique-story-through-creativewebsite
