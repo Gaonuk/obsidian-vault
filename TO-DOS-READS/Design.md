@@ -39,6 +39,7 @@
 - https://hitorilabs.com/
 - https://www.vincentweisser.com/
 - https://sharif.io/
+- https://iamsteve.me/
 
 #### Code Examples
 - https://codepen.io/jh3y/pen/BabOBzv

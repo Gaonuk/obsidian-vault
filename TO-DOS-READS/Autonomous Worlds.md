@@ -8,3 +8,7 @@
 - https://playmint.com/game-design-ideas-from-web3
 - https://medium.com/@david.amor/downstreams-builder-s-guide-40e5274699bf
 - https://github.com/playmint/ds/tree/main/tutorial#readme
+
+IDEA FOR WORLDENGINE
+- battleship pero puedes fabricar oil rigs to build more ships, so you start setting up base, you start shooting torpedos to the other side, maybe build bigger submarines or boats that have specific powers: which can be, reveal a cross of 5 squares in the enemy side, block a square to be used (if there is oil there), shoot more missiles, shoot a missile that will spread fire to the ship every turn.
+- 
