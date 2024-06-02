@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TO-DOS-READS/Design.md",
+                "file": "Eigenlayer.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TO-DOS-READS/Design.md",
+                "file": "Eigenlayer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TO-DOS-READS/Design.md",
+                "file": "Eigenlayer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TO-DOS-READS/Design.md"
+                "file": "Eigenlayer.md"
               }
             }
           },
@@ -198,17 +198,24 @@
   },
   "active": "f9bfea63e82c0d3c",
   "lastOpenFiles": [
+    "TO-DOS-READS/Cloud & Systems.md",
+    "TO-DOS-READS/Design.md",
+    "Eigenlayer.md",
+    "TO-DOS-READS/DeFi.md",
+    "TO-DOS-READS/Solidity Patterns & Architectures.md",
+    "TO-DOS-READS/Rust.md",
+    "TO-DOS-READS/Software, Engineering and Programming.md",
+    "TO-DOS-READS/Science & Technology.md",
+    "TO-DOS-READS/Auditoooor.md",
+    "TO-DOS-READS/Zero Knowledge.md",
+    "TO-DOS-READS/Web3.md",
     "TO-DOS-READS/Entrepreneurship & Startups.md",
     "TO-DOS-READS/EVM.md",
-    "TO-DOS-READS/DeFi.md",
     "TO-DOS-READS/Cool Tools.md",
-    "TO-DOS-READS/Cloud & Systems.md",
     "TO-DOS-READS/Autonomous Worlds.md",
-    "TO-DOS-READS/Auditoooor.md",
     "TO-DOS-READS/Aerospace Engineering.md",
     "ideardas.md",
     "Bills.md",
-    "Eigenlayer.md",
     "HEC.md",
     "Onchain SVG.md",
     "ML Course.md",
@@ -217,13 +224,6 @@
     "Speed-running the chip stack.md",
     "Solana Renaissance hackathon.md",
     "Design I should try to build.md",
-    "TO-DOS-READS/Web3.md",
-    "TO-DOS-READS/Design.md",
-    "TO-DOS-READS/Zero Knowledge.md",
-    "TO-DOS-READS/Science & Technology.md",
-    "TO-DOS-READS/Software, Engineering and Programming.md",
-    "TO-DOS-READS/Solidity Patterns & Architectures.md",
-    "Books.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Devs do Something",

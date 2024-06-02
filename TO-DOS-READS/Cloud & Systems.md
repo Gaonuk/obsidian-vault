@@ -41,6 +41,7 @@
 - [ ] [Books about big and performant distributed systems](https://twitter.com/fede_intern/status/1672672038123720708)
 - [ ] [Systems Architect](https://github.com/sergeyleschev/system-design/blob/main/sergeyleschev-system-architect-roadmap.md#performance-vs-scalability)
 - [ ] [open source training courses about distributed database and distributed systems](https://github.com/pingcap/talent-plan/tree/master)
+- [ ] [ion](https://ion.sst.dev/)
 ---
 ### Videos
 - [ ] [Making Software 'Correct by Construction'](https://www.youtube.com/watch?v=03mUs5NlT6)
@@ -58,3 +59,4 @@
 - [ ] [E2E monitoring with Grafana stack](https://t.co/Rnmk5gm1F3)
 - [ ] [IaC Tests in CI/CD with Actions and Terratest](https://t.co/IDl6hZDhux)
 - [ ] [A GO project with AWS](https://t.co/5IUgo4LlsP)
+- [ ] [Protohackers, Server programming challenges](https://protohackers.com/problem/0)

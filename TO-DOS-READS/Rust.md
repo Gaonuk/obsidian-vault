@@ -14,3 +14,4 @@
 
 - [Rust Template](https://github.com/PaulRBerg/rust-template)
 - https://www.youtube.com/playlist?list=PLmWYh0f8jKSjt9VC5sq2T3mFETasG2p2L
+- [Using Rust for Stripe Payments](https://www.shuttle.rs/blog/2024/03/07/stripe-payments-rust)

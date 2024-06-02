@@ -51,6 +51,7 @@
 - [ ] [Engineering a Compiler Super Book](https://shop.elsevier.com/books/engineering-a-compiler/cooper/978-0-12-815412-0) 
 - [ ] [Migrated from Vercel to Fly.io](https://www.openstatus.dev/blog/migration-backend-from-vercel-to-fly) 
 - [ ] [Low Latency Trading Systems](https://x.com/vaibhaw_vipul/status/1713813366651621409)
+- [ ] [Cool Blogs](https://lists.eatonphil.com/blogs.html)
 
 ## Tutorials
 ---
@@ -100,6 +101,7 @@
 - [ ] [AI is good for you](https://www.amazon.com/-/es/Eric-Jang-ebook/dp/B0C1WRN9VR/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=)
 - [ ] https://blog.research.google/2024/01/amie-research-ai-system-for-diagnostic_12.html
 - [ ] [Morphic](https://www.morphic.sh/)
+- [ ] [MIT DeepLearning](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
 
 
 ## Hardware

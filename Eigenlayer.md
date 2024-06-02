@@ -11,3 +11,7 @@
 - [Wishlist for cloud infra on eigenlayer as AVS](https://x.com/weswfloyd/status/1772259056947781807
 - [Ethos: Powering the Convergence Era of Blockchains](https://www.blog.eigenlayer.xyz/author/eigenlayer-research/) 
 - [Nader Dabit Eigenlayer](https://naderdabit.notion.site/Learn-EigenLayer-fa3087baae6d4f5fa04a98e7255c4eaf) 
+- [Sreeram Eigenlayer video](https://www.youtube.com/watch?v=ZhHeicaaO3o)
+- [Sreeram Nethermind Interview](https://www.youtube.com/watch?v=UeZIxcLaH00)
+- [You could have invented EigenLayer](https://www.youtube.com/watch?v=oYrsbfGIFeU)
+- [STAKESURE: Proof of Stake Mechanisms with Strong Cryptoeconomic Safety](https://arxiv.org/abs/2401.05797)
