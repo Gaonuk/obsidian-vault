@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Eigenlayer.md",
+                "file": "Things to build.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Eigenlayer.md",
+                "file": "Things to build.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Eigenlayer.md",
+                "file": "Things to build.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Eigenlayer.md"
+                "file": "Things to build.md"
               }
             }
           },
@@ -198,32 +198,32 @@
   },
   "active": "f9bfea63e82c0d3c",
   "lastOpenFiles": [
+    "Speed-running the chip stack.md",
+    "Design I should try to build.md",
+    "Books.md",
+    "Furnace.md",
+    "ML Course.md",
+    "HEC.md",
+    "Things to build.md",
+    "Bills.md",
+    "Onchain SVG.md",
+    "Solana.md",
+    "Stuff to build in crypto.md",
+    "Vivir en france.md",
+    "Superchileanapp.md",
+    "Solana Renaissance hackathon.md",
+    "TO-DOS-READS/Auditoooor.md",
+    "Cryptomaxing with yield.md",
+    "Eigenlayer.md",
     "TO-DOS-READS/Cloud & Systems.md",
     "TO-DOS-READS/Design.md",
-    "Eigenlayer.md",
     "TO-DOS-READS/DeFi.md",
     "TO-DOS-READS/Solidity Patterns & Architectures.md",
     "TO-DOS-READS/Rust.md",
     "TO-DOS-READS/Software, Engineering and Programming.md",
     "TO-DOS-READS/Science & Technology.md",
-    "TO-DOS-READS/Auditoooor.md",
     "TO-DOS-READS/Zero Knowledge.md",
     "TO-DOS-READS/Web3.md",
-    "TO-DOS-READS/Entrepreneurship & Startups.md",
-    "TO-DOS-READS/EVM.md",
-    "TO-DOS-READS/Cool Tools.md",
-    "TO-DOS-READS/Autonomous Worlds.md",
-    "TO-DOS-READS/Aerospace Engineering.md",
-    "ideardas.md",
-    "Bills.md",
-    "HEC.md",
-    "Onchain SVG.md",
-    "ML Course.md",
-    "Solana.md",
-    "Stuff to build in crypto.md",
-    "Speed-running the chip stack.md",
-    "Solana Renaissance hackathon.md",
-    "Design I should try to build.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Devs do Something",

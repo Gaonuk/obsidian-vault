@@ -1,2 +1,0 @@
-- [Solana Helius Course](https://www.youtube.com/playlist?list=PLMZny7wGLM6w4t7pMGATxFTjjMduTsEiF)
-- 

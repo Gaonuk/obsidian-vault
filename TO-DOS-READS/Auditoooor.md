@@ -21,6 +21,7 @@
 - [ ] [Onlypwner](https://onlypwner.xyz/) 
 - [ ] [useWeb3 challenge list](https://www.useweb3.xyz/code-challenges) 
 - [ ] https://decentlysafedefi.xyz/me/
+- [ ] [DefiHackLabs](https://github.com/SunWeb3Sec/DeFiHackLabs)
 
 ---
 
