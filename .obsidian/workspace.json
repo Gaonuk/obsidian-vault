@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Things to build.md",
+                "file": "TO-DOS-READS/Health.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Things to build.md",
+                "file": "TO-DOS-READS/Health.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Things to build.md",
+                "file": "TO-DOS-READS/Health.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Things to build.md"
+                "file": "TO-DOS-READS/Health.md"
               }
             }
           },
@@ -198,13 +198,18 @@
   },
   "active": "f9bfea63e82c0d3c",
   "lastOpenFiles": [
+    "TO-DOS-READS/Software, Engineering and Programming.md",
+    "TO-DOS-READS/Design.md",
+    "TO-DOS-READS/Cool Tools.md",
+    "Devs do Something/Connext interview.md",
+    "Devs do Something/Austin Griffith.md",
+    "Things to build.md",
     "Speed-running the chip stack.md",
     "Design I should try to build.md",
     "Books.md",
     "Furnace.md",
     "ML Course.md",
     "HEC.md",
-    "Things to build.md",
     "Bills.md",
     "Onchain SVG.md",
     "Solana.md",
@@ -216,14 +221,9 @@
     "Cryptomaxing with yield.md",
     "Eigenlayer.md",
     "TO-DOS-READS/Cloud & Systems.md",
-    "TO-DOS-READS/Design.md",
     "TO-DOS-READS/DeFi.md",
     "TO-DOS-READS/Solidity Patterns & Architectures.md",
     "TO-DOS-READS/Rust.md",
-    "TO-DOS-READS/Software, Engineering and Programming.md",
-    "TO-DOS-READS/Science & Technology.md",
-    "TO-DOS-READS/Zero Knowledge.md",
-    "TO-DOS-READS/Web3.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Devs do Something",

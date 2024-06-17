@@ -67,6 +67,7 @@
 - [ ] [Nand2Tetris](https://www.nand2tetris.org/course)
 - [ ] [tRPC + NextJS 13](https://www.youtube.com/watch?v=qCLV0Iaq9zU)
 - [ ] https://github.com/electron-react-boilerplate/electron-react-boilerplate
+- [ ] [Write an Emulator](http://emulator101.com/)
 
 ## Cryptography
 ---
