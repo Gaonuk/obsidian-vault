@@ -1,0 +1,9 @@
+- Mac
+	- https://www.nexxel.dev/blog/new-mac
+	- https://kennethnym.com/blog/my-neovim-setup/
+- Neovim
+	- https://learn.typecraft.dev/neovim-for-newbs/setting-up-lua/
+	- https://learn.typecraft.dev/tutorial/never-lose-your-configs-again/
+	- https://learn.typecraft.dev/tutorial/github-copilot-neovim/
+	- https://learn.typecraft.dev/tutorial/session-management/
+	- 

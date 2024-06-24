@@ -51,3 +51,4 @@
 - [ ] [MoonMath study group](https://2b2.notion.site/MoonMath-Study-Group-HQ-ca62f57eb4b34e69aad910654f8e0654)
 - [ ] [ZK ELI5](https://eli5.zksync.io/page/1)
 - [ ] [Accelerate Polygon zkEVM](https://www.irreducible.com/posts/accelerating-polygon-zkevm)
+- [ ] [Noble Curves](https://github.com/paulmillr/noble-curves)

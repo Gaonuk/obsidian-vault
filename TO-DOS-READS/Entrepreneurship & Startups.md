@@ -16,3 +16,6 @@
 - [ ] [Puzzle Engineering](https://www.amazon.com/Elegant-Puzzle-Systems-Engineering-Management/dp/1732265186) 
 - [ ] [Boz](https://boz.com/)
 - [ ] [The Techno-Industrial Manifesto](https://www.notboring.co/p/the-techno-industrial-revolution)
+
+
+![[Pasted image 20240622195851.png]]

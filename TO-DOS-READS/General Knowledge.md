@@ -15,6 +15,9 @@
 - [Set Theory](https://www.rareskills.io/post/set-theory)
 - [Number Theory](https://explained-from-first-principles.com/number-theory/)
 
+### Physics
+---
+- [Feyman Lectures](https://www.feynmanlectures.caltech.edu/#footnote_source_4)
 
 [Optimism](https://stephango.com/optimism)
 https://www.writingruxandrabio.com/p/ideas-matter-how-i-stopped-being

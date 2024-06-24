@@ -8,3 +8,5 @@ https://www.edx.org/learn/aerospace-engineering
 [Engineering Apollo: The Moon Project As A Complex System](https://ocw.mit.edu/courses/sts-471j-engineering-apollo-the-moon-project-as-a-complex-system-spring-2007/)
 [Space System Architecture And Design](https://ocw.mit.edu/courses/16-892j-space-system-architecture-and-design-fall-2004/)
 [Introduction to Aerospace Engineering and Design](https://ocw.mit.edu/courses/16-00-introduction-to-aerospace-engineering-and-design-spring-2003/pages/readings/)
+
+![[Pasted image 20240622195918.png]]

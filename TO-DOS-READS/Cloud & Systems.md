@@ -27,11 +27,11 @@
 - [ ] [Data streaming on AWS](https://t.co/Z4PhI9EqDc)
 - [ ] [A guide for choosing the best API Gateway](https://t.co/jErDojgyJx)
 - [ ] [The future of logs/data observability in apps](https://t.co/D98Dcbgpyb)
-- [x] [FIGMA-OS: TURING-COMPLETE COMPUTER IN FIGMA](https://t.co/LfIgUJVG3z) ✅ 2023-07-03
 - [ ] [Building a serverless app with NestJS and Serverless Framework](https://t.co/ZtcWizNZW3)
 - [ ] [Cloud and Systems courses](https://courses.arpitbhayani.me/)
 - [ ] [Netflix Open Connect](https://openconnect.netflix.com/en/)
 - [ ] [Railways logs](https://x.com/GregorySchier/status/1707852725717971001)
+- [ ] [Technical Blogs](https://lists.eatonphil.com/blogs.html)
 ---
 #### Resources
 - [ ] [Systems design primer](https://github.com/donnemartin/system-design-primer#real-world-architectures)

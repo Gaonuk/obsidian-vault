@@ -52,7 +52,9 @@
 - [ ] [Migrated from Vercel to Fly.io](https://www.openstatus.dev/blog/migration-backend-from-vercel-to-fly) 
 - [ ] [Low Latency Trading Systems](https://x.com/vaibhaw_vipul/status/1713813366651621409)
 - [ ] [Cool Blogs](https://lists.eatonphil.com/blogs.html)
-
+- [ ] [Portfolio Template](https://portfolio-magicui.vercel.app/)
+- [ ] [Deploying NextJS on the edge with SST](https://engineering.udacity.com/deploying-next-js-on-the-edge-with-sst-is-sst-the-game-changer-its-claimed-to-be-1f05a0abc27c)
+- [ ] [Udacity Engineering](https://engineering.udacity.com/)  
 ## Tutorials
 ---
 - [ ] [Discord clone with NextJS](https://twitter.com/samselikoff/status/1668624271961374720?s=20)
@@ -68,6 +70,7 @@
 - [ ] [tRPC + NextJS 13](https://www.youtube.com/watch?v=qCLV0Iaq9zU)
 - [ ] https://github.com/electron-react-boilerplate/electron-react-boilerplate
 - [ ] [Write an Emulator](http://emulator101.com/)
+- [ ] [Ui.dev super courses](https://ui.dev/)
 
 ## Cryptography
 ---

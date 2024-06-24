@@ -35,6 +35,7 @@
 - [ ] [Intro to Ethereum por marto](https://intro-ethereum.marto.lol/23aac7d62c3f442c88e97094f0ea34a2) 
 - [ ] [How to test a wagmi app without spending money](https://x.com/bantg/status/1771843745526210710) 
 - [ ] [Vyper Permit2 Tutorial](https://banteg.xyz/posts/vyper-permit2/)
+- [ ] [Gnosis Ideas](https://docs.google.com/document/d/1P1IHRy7ix4IYtiTw7-Pmn9gFjAdUsHQrz0ZSRZtfEEE/edit)
 
 ----
 

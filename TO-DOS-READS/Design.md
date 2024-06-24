@@ -28,6 +28,8 @@
 - [Recent Design](https://recent.design/)
 - https://www.krazam.tv/
 - [Cool components](https://www.uilabs.dev/)
+- https://portfolio-magicui.vercel.app/
+- https://ui.land/
 ---
 ##### Great Portfolios
 - https://rauno.me/craft/nextjs
