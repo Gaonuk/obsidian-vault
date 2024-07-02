@@ -49,14 +49,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TO-DOS-READS/Development Environment.md",
+                "file": "HEC.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5a7217a19728b0c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FRANCE PROCESS.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TO-DOS-READS/Development Environment.md",
+                "file": "FRANCE PROCESS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TO-DOS-READS/Development Environment.md",
+                "file": "FRANCE PROCESS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TO-DOS-READS/Development Environment.md"
+                "file": "FRANCE PROCESS.md"
               }
             }
           },
@@ -196,17 +208,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f9bfea63e82c0d3c",
+  "active": "5a7217a19728b0c8",
   "lastOpenFiles": [
+    "FRANCE PROCESS.md",
+    "HEC.md",
+    "Furnace.md",
+    "TO-DOS-READS/Cool Tools.md",
+    "TO-DOS-READS/DeFi.md",
+    "TO-DOS-READS/Development Environment.md",
+    "TO-DOS-READS/Design.md",
+    "Books.md",
     "Things to build.md",
     "Pasted image 20240622195918.png",
     "Pasted image 20240622195851.png",
-    "TO-DOS-READS/Development Environment.md",
-    "TO-DOS-READS/Design.md",
-    "TO-DOS-READS/Cool Tools.md",
     "TO-DOS-READS/Software, Engineering and Programming.md",
     "TO-DOS-READS/Zero Knowledge.md",
-    "TO-DOS-READS/DeFi.md",
     "TO-DOS-READS/Autonomous Worlds.md",
     "TO-DOS-READS/General Knowledge.md",
     "TO-DOS-READS/Science & Technology.md",
@@ -216,15 +232,12 @@
     "TO-DOS-READS/Cloud & Systems.md",
     "TO-DOS-READS/Entrepreneurship & Startups.md",
     "TO-DOS-READS/Health.md",
-    "Books.md",
     "Design I should try to build.md",
     "Devs do Something/Austin Griffith.md",
     "Devs do Something/Connext interview.md",
     "Eigenlayer.md",
     "Speed-running the chip stack.md",
     "ML Course.md",
-    "HEC.md",
-    "Furnace.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Devs do Something",

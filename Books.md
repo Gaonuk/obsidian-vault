@@ -1,2 +1,3 @@
 - https://hpmor.com/ 
 - https://unsongbook.com/
+- https://www.packtpub.com/en-id/product/hands-on-blockchain-for-python-developers-9781805121367
